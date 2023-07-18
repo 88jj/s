@@ -1,9 +1,6 @@
 let html = $response.body;
 
 html =
-  html.replace(/noCanBook":true/g, `noCanBook" : false`);    
-
-html =
   html.replace(/stock":\d*/g, `stock":10`);
 
 html =
