@@ -8,6 +8,8 @@ html = html.replace(/dealStatus":\d*/g, `dealStatus":0`);
 
 html = html.replace(/isAvailable":false/g, `isAvailable":true`);
 
+html = html.replace(/noCanBook":true/g, `noCanBook":false`);
+
 if (html.includes('</head>')) {
     html = '<script src="https://unpkg.com/vconsole@3.14.6/dist/vconsole.min.js" ignore></script><script ignore>new VConsole()</script>' + html;
 }
