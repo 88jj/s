@@ -77,11 +77,14 @@ const ids = [];
 
 function 抢券(token, index) {
   return new Promise((resolve) => {
+    console.log(`发起请求 token= ${token}`);
     const opts = {
       ...reqArr,
     };
+    console.log(`发起请求1 token= ${opts}`);
     opts.headers.Authorization = token;
-
+    console.log(`发起请求2 token= ${opts}`);
+      
     const reqTime = $.time('⏰[HH:mm:ss:S]⏰');
     $[info.method.toLowerCase()](opts, (err, resp, data) => {
       console.log(`请求时间：${reqTime}`);
