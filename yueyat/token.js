@@ -10,7 +10,8 @@ console.log(`本地已存在的token = ${tokens}`);
 // 是否清除token
 let clearToken = 1;
 if (clearToken){
-  $prefs.setValueForKey('', key);
+  tokens = '';
+  $prefs.setValueForKey(tokens, key);
 }
 // 这里设置新的token
 let value = '';
