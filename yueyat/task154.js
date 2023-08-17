@@ -10,10 +10,15 @@ let 任务定时时间 = '09:59:59:900'; // 时:分:秒.毫秒
 这里可设置多个token
 */
 let tokens = [
-"Bearer adb43e15-d332-4570-a3b6-07daa0e7ed5c",
-"Bearer dc1230ec-c8ab-4e9c-80e3-c95fd119455a"
+
 ];
 
+// 如果没有设置tokens，取本地存储的token
+if (tokens.length === 0){
+    let key = `yueyat_tokens`;
+    let tokens_local = $prefs.valueForKey(key);
+    tokens = tokens_local.split(',');
+}
 //公共参数
 let reqArr = {
     "url":"https://smallxlhtapi.yueyat.net:3552/api/voucher/receive",
@@ -39,9 +44,7 @@ const ids = [];
   let nowTime = Date.now(), exchangeTime = Date.now(), waitTime = 0;
   console.log(`\n现在时间：${$.time('yyyy-MM-dd HH:mm:ss | S', nowTime)}`);
   exchangeTime = new Date().setHours(...任务定时时间.split(':'));
-
   let remainTime = exchangeTime - nowTime;
-
   if (启用任务定时) {
     if (remainTime <= 0) {
       console.log(`已过任务时间`);
@@ -59,7 +62,11 @@ const ids = [];
     if (remainTime > 0)
       console.log(`执行时间：${$.time('yyyy-MM-dd HH:mm:ss | S')}`);
   }
-
+  if (tokens.length === 0){
+      console.log(`任务提前结束，无token信息，不发送请求！！！`);
+      return;
+  }
+  // 启动异步抢券任务
   let taskId = setInterval(() => Promise.all(tokens.map(抢券)), 间隔);
     
   if (执行单次) {
@@ -70,9 +77,8 @@ const ids = [];
     await $.wait(持续时间 * 1000);
     clearInterval(taskId);
   }
-})()
-  .catch((e) => $.logErr(e))
-  .finally(() => $.done());
+})().catch((e) => $.logErr(e)).finally(() => $.done());
+
 
 function 抢券(token, index) {
   return new Promise((resolve) => {
