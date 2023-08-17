@@ -2,8 +2,8 @@
     "name":"锡林劵",
     "task":[
         {
-            "config":"59 59 9 * * * https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/sample-task.js, img-url=https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/quantumult-x.png, tag=2023-08, enabled=true",
-            "addons":"https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/sample-import-rewrite.txt"
+            "config":"59 59 9 * * * https:\/\/88jj.github.io\/s\/yueyat\/task154.js, img-url=https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/quantumult-x.png, tag=100劵, enabled=true",
+            "addons":""
         }
     ],
     "description":"锡林劵"
