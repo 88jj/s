@@ -88,7 +88,7 @@ function 抢券(token, index) {
     };
    
     opts.headers.Authorization = token;
-    console.log(`发起请求 request = ${$.toStr(opts)}`);
+    // console.log(`发起请求 request = ${$.toStr(opts)}`);
       
     const reqTime = $.time('⏰[HH:mm:ss:S]⏰');
     $[opts.method.toLowerCase()](opts, (err, resp, data) => {
