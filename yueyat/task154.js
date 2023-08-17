@@ -1,10 +1,10 @@
 const $ = new Env('通用重放3');
 const 间隔 = 100; //ms
 const 执行单次 = 0; // 0 持续时间才生效 (测试用 1, 抢券用 0)
-const 持续时间 = 17; // s
+const 持续时间 = 120; // s
 const 成功关键字 = '';
 let 启用任务定时 = 1;
-let 任务定时时间 = '09:59:59:900'; // 时:分:秒.毫秒
+let 任务定时时间 = '09:59:59:300'; // 时:分:秒.毫秒
 
 /*
 这里可设置多个token
@@ -66,6 +66,11 @@ const ids = [];
       console.log(`任务提前结束，无token信息，不发送请求！！！`);
       return;
   }
+    if (tokens.length === 0){
+        console.log(`提前结束任务，token空，不发起请求！！！`);
+        return;
+    }
+    
   // 启动异步抢券任务
   let taskId = setInterval(() => Promise.all(tokens.map(抢券)), 间隔);
     
