@@ -22,6 +22,7 @@ if (clearToken){
 let value = '';
 
 if (newToken){
+  $notify(`锡林通知`, ``, `获取到新的token：${newToken}`);
   value = newToken;
 }
 
