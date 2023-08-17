@@ -34,20 +34,14 @@ let reqArr = {
 
 $.exchangeEnd = [];
 
-// let idk = 120;
 const ids = [];
 
 !(async () => {
-  let nowTime = Date.now(),
-    exchangeTime = Date.now(),
-    waitTime = 0;
+  let nowTime = Date.now(), exchangeTime = Date.now(), waitTime = 0;
   console.log(`\n现在时间：${$.time('yyyy-MM-dd HH:mm:ss | S', nowTime)}`);
   exchangeTime = new Date().setHours(...任务定时时间.split(':'));
 
   let remainTime = exchangeTime - nowTime;
-  // if (remainTime > 5 * 60 * 1000) {
-  //   console.log(`离任务时间大于5分钟`);
-  // } else
 
   if (启用任务定时) {
     if (remainTime <= 0) {
@@ -68,7 +62,7 @@ const ids = [];
   }
 
   let taskId = setInterval(() => Promise.all(tokens.map(抢券)), 间隔);
-
+    
   if (执行单次) {
     await $.wait(执行单次 * 间隔);
     clearInterval(taskId);
@@ -86,7 +80,7 @@ function 抢券(token, index) {
     const opts = {
       ...reqArr,
     };
-    opts.headers.Authorization = token
+    opts.headers.Authorization = token;
 
     const reqTime = $.time('⏰[HH:mm:ss:S]⏰');
     $[info.method.toLowerCase()](opts, (err, resp, data) => {
