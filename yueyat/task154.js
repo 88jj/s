@@ -1,20 +1,19 @@
 const $ = new Env('通用重放3');
 const 间隔 = 100; //ms
-const 执行单次 = 1; // 0 持续时间才生效 (测试用 1, 抢券用 0)
+const 执行单次 = 0; // 0 持续时间才生效 (测试用 1, 抢券用 0)
 const 持续时间 = 17; // s
 const 成功关键字 = '';
-let 启用任务定时 = 0;
+let 启用任务定时 = 1;
 let 任务定时时间 = '09:59:59:900'; // 时:分:秒.毫秒
 
 /*
-无论是否定时，都会往下执行
-定时作用只是保证能提前启动，到点准点执行，并尽量精确到毫秒。
+这里可设置多个token
 */
-
 let tokens = [
 "Bearer adb43e15-d332-4570-a3b6-07daa0e7ed5c",
 "Bearer dc1230ec-c8ab-4e9c-80e3-c95fd119455a"
 ];
+
 //公共参数
 let reqArr = {
     "url":"https://smallxlhtapi.yueyat.net:3552/api/voucher/receive",
