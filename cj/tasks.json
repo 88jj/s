@@ -9,8 +9,28 @@
 			"plat": "yx",
 			"test": false,
 			"time": "2023-09-22 10:29:58.330",
-			"dataUrl": "https://88jj.github.io/s/cj/yuexiuhui.json",
+			"data": "https://88jj.github.io/s/cj/yuexiuhui.json",
 			"description": ""
-		}
+		},
+		{
+            "name":"腾讯滑块验证码",
+            "version": 1,
+            "status": true,
+            "period": null,
+            "plat": "TxCaptcha",
+            "test": false,
+            "time": "2023-09-22 10:25:08.330",
+            "description": ""
+        },
+        {
+            "name":"代理IP",
+            "version": 1,
+            "status": true,
+            "period": null,
+            "plat": "ProxIps",
+            "test": false,
+            "time": "2023-09-22 10:29:45.330",
+            "description": ""
+        }
 	]
 }
