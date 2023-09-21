@@ -1,0 +1,85 @@
+{
+  "url": "https://member-gateway.yuexiu.com/activitygateway/mall/order/app/order/orderConfirmState",
+  "method": "POST",
+  "headers": {
+    "x-Hrt-Mid-Appid": "API_AUTH_MINI",
+    "Accept-Encoding": "gzip,compress,br,deflate",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Referer": "https://servicewechat.com/wx4e6c5384b429c008/78/page-frame.html",
+    "Host": "member-gateway.yuexiu.com",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
+  },
+  "并发数": 1,
+  "间隔毫秒": 70,
+  "tokenKey": "Authorization",
+  "开始时间": 0,
+  "持续时间(s)":  10,
+  "tokens": [
+
+    "6ddc3153344c4a4f660ad40aea6f2cbd,17140612087",
+    "3cd43745ec84674b202e934556373fc4,17140613269",
+    "aae9481b2cfc564af4e74899bdecb66a,17140615163",
+    "5afc1ab422f481a07b19db98fc55bdc2,18932450130"
+
+
+
+  ],
+  "goodsArr": [
+    {
+      "goods": [
+        {
+          "shopRealPrice": "70.00",
+          "skuName": "宝藏专属卡",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9758,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "宝藏专属卡",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
+          "goodsId": 7626,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    },
+    {
+      "goods": [
+        {
+          "shopRealPrice": "30.00",
+          "skuName": "全民狂欢卡",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9756,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "全民狂欢卡",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic":
+          "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
+          "goodsId": 7624,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    }
+  ],
+  "channelQrActCodeArr": {
+    "s9756": "QRA00671",
+    "s9758": "QRA00673"
+  }
+}
