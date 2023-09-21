@@ -2,12 +2,12 @@
 	tasks:[
 		{
 			"name":"悦秀会",
-			"version": 2,
+			"version": 1,
 			"status": true,
 			"period": null,
 			"plat": "yx",
 			"test": true,
-			"time": "2023-09-21 17:02:58.000",
+			"time": "2023-09-21 17:09:58.000",
 			"dataUrl": "https://88jj.github.io/s/cj/yuexiuhui.json",
 			"description": ""
 		}
