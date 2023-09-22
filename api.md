@@ -1,4 +1,4 @@
-# quanx 关键函数
+﻿# quanx 关键函数
 * ##$prefs：
 持久化数据存储（读取和写入）。  
 * ##$task：
@@ -15,4 +15,5 @@
 脚本结束，必须要有  
 `$done({})`
 
-
+# 仓库访问地址
+https://88jj.github.io/s/cj/yuexiuhui.json
