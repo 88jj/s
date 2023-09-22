@@ -1,9 +1,9 @@
 {
   "tasks":[
     {
-      "owner": "",
+      "owner": "2",
       "name":"悦秀会",
-      "version": 5,
+      "version": 6,
       "status": true,
       "period": null,
       "plat": "yx",
@@ -13,8 +13,20 @@
       "description": ""
     },
     {
+      "owner": "3",
+      "name":"悦秀会",
+      "version": 6,
+      "status": true,
+      "period": null,
+      "plat": "yx",
+      "test": false,
+      "time": "2023-09-22 10:29:58.330",
+      "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
+      "description": ""
+    },
+    {
       "name":"腾讯滑块验证码",
-      "version": 5,
+      "version": 6,
       "status": true,
       "period": null,
       "plat": "TxCaptcha",
@@ -24,7 +36,7 @@
     },
     {
       "name":"代理IP",
-      "version": 5,
+      "version": 6,
       "status": true,
       "test": false,
       "period": null,
