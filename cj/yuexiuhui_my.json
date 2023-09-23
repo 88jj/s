@@ -24,31 +24,57 @@
         "0daa03e92ee1741a3ef31c4264beb37c,17340573100"
   ],
   "goodsArr": [
-      {
-        "goods": [
-          {
-            "shopRealPrice": "70.00",
-            "skuName": "宝藏款",
-            "purchaseNum": 0,
-            "skuSn": "",
-            "goodsSpecialType": 1,
-            "goodsSn": "00082",
-            "goodsPriceType": 0,
-            "skuSalePoint": 0,
-            "skuId": 9759,
-            "skuSalePrice": 0.98999999999999999,
-            "num": 1,
-            "goodsName": "宝藏款",
-            "totalPoint": 0,
-            "storeCode": "010156",
-            "totalPrice": "0.98999999999999999",
-            "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
-            "goodsId": 7627,
-            "totalStock": 1
-          }
-        ],
-        "storeCode": "010156"
-      }
+    {
+      "goods": [
+        {
+          "shopRealPrice": "70.00",
+          "skuName": "宝藏专属卡",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9758,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "宝藏专属卡",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
+          "goodsId": 7626,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    },
+    {
+      "goods": [
+        {
+          "shopRealPrice": "30.00",
+          "skuName": "全民狂欢卡",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9756,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "全民狂欢卡",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic":
+          "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
+          "goodsId": 7624,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    }
     ],
     "channelQrActCodeArr": {
       "s9757": "QRA00672",
