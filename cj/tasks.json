@@ -8,19 +8,19 @@
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-23 10:29:58.330",
+      "time": "2023-09-24 10:29:58.330",
       "data": "https://88jj.github.io/s/cj/yuexiuhui.json",
       "description": ""
     },
     {
       "owner": "3",
       "name":"悦秀会-myself",
-      "version": 2,
+      "version": 3,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-23 10:29:58.330",
+      "time": "2023-09-24 10:29:58.330",
       "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
       "description": ""
     },
@@ -31,7 +31,7 @@
       "period": null,
       "plat": "TxCaptcha",
       "test": false,
-      "time": "2023-09-23 10:25:08.330",
+      "time": "2023-09-24 10:25:08.330",
       "description": ""
     },
     {
@@ -42,7 +42,7 @@
       "period": null,
       "plat": "ProxIps",
       "data": "3",
-      "time": "2023-09-23 10:29:45.330",
+      "time": "2023-09-24 10:29:45.330",
       "description": ""
     }
   ]
