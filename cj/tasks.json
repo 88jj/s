@@ -3,7 +3,7 @@
     {
       "owner": "2",
       "name":"悦秀会",
-      "version": 3,
+      "version": 4,
       "status": true,
       "period": null,
       "plat": "yx",
@@ -15,7 +15,7 @@
     {
       "owner": "3",
       "name":"悦秀会-myself",
-      "version": 3,
+      "version": 4,
       "status": true,
       "period": null,
       "plat": "yx",
@@ -26,7 +26,7 @@
     },
     {
       "name":"腾讯滑块验证码",
-      "version": 3,
+      "version": 4,
       "status": true,
       "period": null,
       "plat": "TxCaptcha",
@@ -36,7 +36,7 @@
     },
     {
       "name":"代理IP",
-      "version": 3,
+      "version": 4,
       "status": true,
       "test": false,
       "period": null,
