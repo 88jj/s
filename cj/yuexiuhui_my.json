@@ -10,18 +10,18 @@
     "Host": "member-gateway.yuexiu.com",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
   },
-  "并发数": 2,
-  "间隔毫秒": 42,
+  "并发数": 1,
+  "间隔毫秒": 89,
   "tokenKey": "Authorization",
   "开始时间": 0,
-  "持续时间(s)":  10,
+  "持续时间(s)":  7,
   "tokens": [
     "3cd43745ec84674b202e934556373fc4,17140613269",
     "d4187734f4f2f5a5f3206bf095be7c14,19235479649",
     "e52f6ee161560374239e840ee77fb736,19235479819",
     "6b5ee2047e90363c89a55085c41e4ef9,19235479585",
     "77d6d0997db90e9ed3a0559b2b3cb748,19275311817",
-    "5438c99f5e39793610a052fb7a54689c,19236261495",
+    "5438c99f5e39793610a052fb7a54689c,19236261495"
 
   ],
   "goodsArr": [

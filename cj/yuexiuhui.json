@@ -11,13 +11,11 @@
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
   },
   "并发数": 1,
-  "间隔毫秒": 63,
+  "间隔毫秒": 100,
   "tokenKey": "Authorization",
   "开始时间": 0,
   "持续时间(s)":  7,
   "tokens": [
-    "28f2e977b18928f1399329bf1ad94715,13554105906",
-
     "67c715916e5919d6344ba104db01e16f,13698538759",
     "9d464453106f0763c923e6e9aeb5e4ae,14749115515",
     "35d51f6206af9cad2a78fa353cf28c2c,13639157256",
