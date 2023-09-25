@@ -13,36 +13,36 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "",
       "name":"悦秀会-myself",
-      "version": 6,
+      "version": 7,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-25 10:29:58.330",
+      "time": "2023-09-25 10:59:58.330",
       "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
       "description": ""
     },
     {
       "name":"腾讯滑块验证码",
-      "version": 6,
+      "version": 7,
       "status": true,
       "period": null,
       "plat": "TxCaptcha",
       "test": false,
-      "time": "2023-09-25 10:25:08.330",
+      "time": "2023-09-25 10:55:08.330",
       "description": ""
     },
     {
       "name":"代理IP",
-      "version": 6,
+      "version": 7,
       "status": true,
       "test": false,
       "period": null,
       "plat": "ProxIps",
       "data": "3",
-      "time": "2023-09-25 10:29:45.330",
+      "time": "2023-09-25 10:59:50.330",
       "description": ""
     }
   ]
