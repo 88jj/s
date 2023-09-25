@@ -10,45 +10,21 @@
     "Host": "member-gateway.yuexiu.com",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
   },
-  "并发数": 1,
-  "间隔毫秒": 30,
+  "并发数": 2,
+  "间隔毫秒": 42,
   "tokenKey": "Authorization",
   "开始时间": 0,
-  "持续时间(s)":  5,
+  "持续时间(s)":  10,
   "tokens": [
-    "747d9fa7ca21cb543aa9c38a104cbee4,19235477342",
-    "8018834760630739a925de4b0341bedb,19275314391",
-    "7f9cebde9225b075899d8c317a7d8083,19276342639",
     "3cd43745ec84674b202e934556373fc4,17140613269",
-    "5afc1ab422f481a07b19db98fc55bdc2,18932450130",
-    "0daa03e92ee1741a3ef31c4264beb37c,17340573100"
+    "d4187734f4f2f5a5f3206bf095be7c14,19235479649",
+    "e52f6ee161560374239e840ee77fb736,19235479819",
+    "6b5ee2047e90363c89a55085c41e4ef9,19235479585",
+    "77d6d0997db90e9ed3a0559b2b3cb748,19275311817",
+    "5438c99f5e39793610a052fb7a54689c,19236261495",
+
   ],
   "goodsArr": [
-    {
-      "goods": [
-        {
-          "shopRealPrice": "70.00",
-          "skuName": "宝藏专属卡",
-          "purchaseNum": 0,
-          "skuSn": "",
-          "goodsSpecialType": 1,
-          "goodsSn": "00082",
-          "goodsPriceType": 0,
-          "skuSalePoint": 0,
-          "skuId": 9758,
-          "skuSalePrice": 0.98999999999999999,
-          "num": 1,
-          "goodsName": "宝藏专属卡",
-          "totalPoint": 0,
-          "storeCode": "010156",
-          "totalPrice": "0.98999999999999999",
-          "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
-          "goodsId": 7626,
-          "totalStock": 1
-        }
-      ],
-      "storeCode": "010156"
-    },
     {
       "goods": [
         {
