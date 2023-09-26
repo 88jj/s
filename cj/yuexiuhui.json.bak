@@ -16,27 +16,9 @@
   "开始时间": 0,
   "持续时间(s)":  7,
   "tokens": [
-    "f1672361133bb4849eff117491395c16,13597942800,橙子",
-    "56629f9115fb90a7a0eeb294d91be519,13638647763,小橙",
+    "0fc3d8d4c6a7f58d575f355c81b9291d,13554105906",
 
-    "719c9354ada363f6c0ed81475697928f,15313688213",
-    "a28c867ee85c0fb5d0b177ccff522e3f,13064774951",
-    "74b51d8fc567146a3649dc428e101266,13289335415",
-    "55d6a1d297b3b5f970448cd73fafc860,17276237463",
-    "141a11c9dca6499b66a48016bf619961,13275103727",
 
-    "5f94b4c3585635305747548380fa2189,13057352610,蛮吉",
-    "51e861055dfbefdeb50b79dbf2d90127,13023360464,微盾",
-    "e67c694678d19c967334cfccee6009a8,13218795215,汐汐",
-    "32f8351882fbe89083c5fb5ab8c20758,19235478904,me",
-    "1b2d399d61881ac9180b00abbf31b45b,13270199783,me2",
-
-    "d3c7e96414ddb570f34350ee3b364a5a,13276226087",
-    "0b346af8c84c98d63fb70fb38a31a631,13270183621",
-    "3534ff4c27a344b703ee283f557cf2ea,13276273523",
-    "995aa951e741c2f68dc7bca62acdca00,13270192608",
-    "3966685ec9f7258b54f7cbfd8b9ef15d,13276278215",
-    "6297ed953fc7807bed4382558a694dbb,13276279571",
   ],
   "goodsArr": [
     {
@@ -59,6 +41,32 @@
           "totalPrice": "0.98999999999999999",
           "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
           "goodsId": 7627,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    },
+    {
+      "goods": [
+        {
+          "shopRealPrice": "30.00",
+          "skuName": "全民款",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9757,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "全民款",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic":
+          "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
+          "goodsId": 7625,
           "totalStock": 1
         }
       ],
