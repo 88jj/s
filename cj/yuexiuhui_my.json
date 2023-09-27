@@ -50,7 +50,33 @@
         }
       ],
       "storeCode": "010156"
-    }
+    },
+    {
+          "goods": [
+            {
+              "shopRealPrice": "30.00",
+              "skuName": "全民款",
+              "purchaseNum": 0,
+              "skuSn": "",
+              "goodsSpecialType": 1,
+              "goodsSn": "00082",
+              "goodsPriceType": 0,
+              "skuSalePoint": 0,
+              "skuId": 9757,
+              "skuSalePrice": 0.98999999999999999,
+              "num": 1,
+              "goodsName": "全民款",
+              "totalPoint": 0,
+              "storeCode": "010156",
+              "totalPrice": "0.98999999999999999",
+              "goodsPic":
+              "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
+              "goodsId": 7625,
+              "totalStock": 1
+            }
+          ],
+          "storeCode": "010156"
+        }
   ],
   "channelQrActCodeArr": {
     "s9757": "QRA00672",
