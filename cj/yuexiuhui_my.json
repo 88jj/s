@@ -11,7 +11,7 @@
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
   },
   "并发数": 1,
-  "间隔毫秒": 59,
+  "间隔毫秒": 30,
   "tokenKey": "Authorization",
   "开始时间": 0,
   "持续时间(s)":  7,
@@ -22,7 +22,7 @@
     "32f8351882fbe89083c5fb5ab8c20758,19235478904,陈杰",
     "cddfa4065dd2159512332000304d53c9,13093139301,杰拉尔",
     "6824239e18af3703577f44a81c789d7c，13270102817,玥玥",
-    "853ac2f4d910506562e49bffa720598e，13013677105,佩佩",
+    "853ac2f4d910506562e49bffa720598e，13013677105,佩佩"
 
   ],
   "goodsArr": [
@@ -50,33 +50,7 @@
         }
       ],
       "storeCode": "010156"
-    },
-    {
-          "goods": [
-            {
-              "shopRealPrice": "30.00",
-              "skuName": "全民款",
-              "purchaseNum": 0,
-              "skuSn": "",
-              "goodsSpecialType": 1,
-              "goodsSn": "00082",
-              "goodsPriceType": 0,
-              "skuSalePoint": 0,
-              "skuId": 9757,
-              "skuSalePrice": 0.98999999999999999,
-              "num": 1,
-              "goodsName": "全民款",
-              "totalPoint": 0,
-              "storeCode": "010156",
-              "totalPrice": "0.98999999999999999",
-              "goodsPic":
-              "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
-              "goodsId": 7625,
-              "totalStock": 1
-            }
-          ],
-          "storeCode": "010156"
-        }
+    }
   ],
   "channelQrActCodeArr": {
     "s9757": "QRA00672",
