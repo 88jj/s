@@ -3,46 +3,46 @@
     {
       "owner": "2",
       "name":"悦秀会",
-      "version": 3,
+      "version": 1,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-27 10:59:58.330",
+      "time": "2023-09-28 10:29:58.130",
       "data": "https://88jj.github.io/s/cj/yuexiuhui.json",
       "description": ""
     },
     {
       "owner": "3",
       "name":"悦秀会-myself",
-      "version": 4,
+      "version": 1,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-27 10:59:58.330",
+      "time": "2023-09-28 10:29:58.030",
       "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
       "description": ""
     },
     {
       "name":"腾讯滑块验证码",
-      "version": 2,
+      "version": 1,
       "status": true,
       "period": null,
       "plat": "TxCaptcha",
       "test": false,
-      "time": "2023-09-27 10:55:08.330",
+      "time": "2023-09-28 10:25:08.330",
       "description": ""
     },
     {
       "name":"代理IP",
-      "version": 2,
+      "version": 1,
       "status": true,
       "test": false,
       "period": null,
       "plat": "ProxIps",
-      "data": "70",
-      "time": "2023-09-27 10:59:50.330",
+      "data": "100",
+      "time": "2023-09-28 10:29:45.330",
       "description": ""
     }
   ]
