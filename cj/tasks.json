@@ -1,9 +1,9 @@
 {
   "tasks":[
     {
-      "owner": "1",
+      "owner": "2",
       "name":"悦秀会",
-      "version": 2,
+      "version": 1,
       "status": true,
       "period": null,
       "plat": "yx",
@@ -13,9 +13,9 @@
       "description": ""
     },
     {
-      "owner": "1",
+      "owner": "3",
       "name":"悦秀会-myself",
-      "version": 2,
+      "version": 1,
       "status": true,
       "period": null,
       "plat": "yx",
