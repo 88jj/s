@@ -1,26 +1,26 @@
 {
   "tasks":[
     {
-      "owner": "2",
+      "owner": "1",
       "name":"悦秀会",
       "version": 2,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-28 10:29:58.130",
+      "time": "2023-09-29 10:29:58.130",
       "data": "https://88jj.github.io/s/cj/yuexiuhui.json",
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "1",
       "name":"悦秀会-myself",
       "version": 2,
       "status": true,
       "period": null,
       "plat": "yx",
       "test": false,
-      "time": "2023-09-28 10:29:58.030",
+      "time": "2023-09-29 10:29:58.030",
       "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
       "description": ""
     },
@@ -31,7 +31,7 @@
       "period": null,
       "plat": "TxCaptcha",
       "test": false,
-      "time": "2023-09-28 10:25:08.330",
+      "time": "2023-09-29 10:25:08.330",
       "description": ""
     },
     {
@@ -42,7 +42,7 @@
       "period": null,
       "plat": "ProxIps",
       "data": "100",
-      "time": "2023-09-28 10:29:45.330",
+      "time": "2023-09-29 10:29:45.330",
       "description": ""
     }
   ]
