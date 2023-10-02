@@ -36,7 +36,7 @@
     "dddeed6fde7e46e8e3f47bb4df309a87,17551008973",
     "daa5036823b50f7902413e2d4fbcb5e2,17601502756",
     "8f0fa73d1be38c2630f925e98aae310b,13023307626",
-    "ada2ee0cc32b8b66b4f9c0294161a08a,18651028563",
+    "ada2ee0cc32b8b66b4f9c0294161a08a,18651028563"
   ],
   "goodsArr": [
     {
@@ -59,6 +59,32 @@
           "totalPrice": "0.98999999999999999",
           "goodsPic": "https://member-static.yuexiu.com/image/2023/09/12/98gd69929w6ra5iv5jrsyoj6s2336ey7.jpg",
           "goodsId": 7627,
+          "totalStock": 1
+        }
+      ],
+      "storeCode": "010156"
+    },
+    {
+      "goods": [
+        {
+          "shopRealPrice": "30.00",
+          "skuName": "全民款",
+          "purchaseNum": 0,
+          "skuSn": "",
+          "goodsSpecialType": 1,
+          "goodsSn": "00082",
+          "goodsPriceType": 0,
+          "skuSalePoint": 0,
+          "skuId": 9757,
+          "skuSalePrice": 0.98999999999999999,
+          "num": 1,
+          "goodsName": "全民款",
+          "totalPoint": 0,
+          "storeCode": "010156",
+          "totalPrice": "0.98999999999999999",
+          "goodsPic":
+          "https://member-static.yuexiu.com/image/2023/09/12/850w5i3gcpq827mi5ekr120o356uco70.jpg",
+          "goodsId": 7625,
           "totalStock": 1
         }
       ],
