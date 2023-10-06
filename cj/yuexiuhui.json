@@ -11,23 +11,14 @@
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.40(0x18002830) NetType/WIFI Language/zh_CN"
   },
   "并发数": 1,
-  "间隔毫秒": 70,
+  "间隔毫秒": 30,
   "tokenKey": "Authorization",
   "开始时间": 0,
   "持续时间(s)":  7,
   "tokens": [
-    "c03abda290ee195f85adcacf3e5f4b38,18601595706",
-    "62e540d74a7756fd42fab87f44a42003,17605101560",
-    "5f8af0aa22842c9a61266c08f3ecfe07,17625818278",
-    "d40ed4123e86033e47f5ae872dd2f5a7,13093092871",
-
-    "ddfc9a629987ba354099a317f66db8f0,13023392972,蛮吉",
-    "3bf2794393ed46b3c28f44b3f94c2ced,13276278526,微盾",
     "01c6cacf578542a8219058fd386f58a2,13270198270,汐汐",
     "ebeb72c31cc95be51479b1b982f0d222,13063648013,陈杰",
     "6358b0611e56593bb5991fb7b1551d9a,18661035072,杰拉尔",
-    "174a424931b664377a5d471c0c9106a3,17501519802,佩佩",
-    "3ae512a67ac472813bd710e169587a3d,17501528319,玥玥",
   ],
   "goodsArr": [
     {
