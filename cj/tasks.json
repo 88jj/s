@@ -1,61 +1,15 @@
 {
   "tasks":[
     {
-      "owner": "2",
-      "name":"悦秀会",
-      "version": 19,
+      "owner": "",
+      "name":"华润通",
+      "version": 1,
       "status": true,
       "period": null,
-      "plat": "yx",
+      "plat": "hrt",
       "test": false,
-      "time": "2023-10-06 10:59:58.130",
+      "time": "2023-10-25 07:59:58.130",
       "data": "https://88jj.github.io/s/cj/yuexiuhui.json",
-      "description": ""
-    },
-    {
-      "owner": "3",
-      "name":"悦秀会-myself",
-      "version": 19,
-      "status": true,
-      "period": null,
-      "plat": "yx",
-      "test": false,
-      "time": "2023-10-06 10:59:58.030",
-      "data": "https://88jj.github.io/s/cj/yuexiuhui_my.json",
-      "description": ""
-    },
-    {
-      "name":"腾讯滑块验证码",
-      "version": 19,
-      "status": true,
-      "period": null,
-      "plat": "TxCaptcha",
-      "test": false,
-      "time": "2023-10-06 10:55:08.330",
-      "description": ""
-    },
-    {
-      "owner": "2",
-      "name":"代理IP",
-      "version": 19,
-      "status": true,
-      "test": false,
-      "period": null,
-      "plat": "ProxIps",
-      "data": "200",
-      "time": "2023-10-06 10:59:45.330",
-      "description": ""
-    },
-    {
-      "owner": "3",
-      "name":"代理IP",
-      "version": 19,
-      "status": true,
-      "test": false,
-      "period": null,
-      "plat": "ProxIps",
-      "data": "160",
-      "time": "2023-10-06 10:59:42.330",
       "description": ""
     }
   ]

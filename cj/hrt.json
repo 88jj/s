@@ -1,0 +1,15 @@
+{
+  "url": "https://mid.huaruntong.cn/api/points/saveQuestionSignin",
+  "method": "POST",
+  "headers": {
+    "x-Hrt-Mid-Appid": "API_AUTH_WEB",
+    "X-HRT-MID-NEWRISK": "newRisk",
+    "Content-Type": "application/json;charset=utf-8",
+    "Accept": "application/json"
+  },
+  "tokens":[
+    "01426de68586c9bc7a787bd330c4151d4,陈杰",
+    "2f953a1fd8b4ae976d6015b8ec923d92c,汐汐",
+    "1635cee0869502142acb3cabb7acd2c79,橙子"
+  ]
+}
