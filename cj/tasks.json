@@ -3,12 +3,12 @@
     {
       "owner": "",
       "name":"华润通",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": null,
       "plat": "hrt",
       "test": false,
-      "time": "2023-10-25 07:59:58.130",
+      "time": "2023-10-25 09:46:58.130",
       "data": "https://88jj.github.io/s/cj/yuexiuhui.json",
       "description": ""
     }
