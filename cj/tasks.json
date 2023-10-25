@@ -3,25 +3,25 @@
     {
       "owner": "",
       "name":"华润通",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 8640000,
       "plat": "hrt",
       "test": false,
       "time": "2023-10-26 08:44:18.130",
-      "data": "https://88jj.github.io/s/cj/hrt/hrt.json",
+      "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
       "owner": "",
       "name":"一点万象",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 8640000,
       "plat": "hrt",
       "test": false,
       "time": "2023-10-26 08:45:18.130",
-      "data": "https://88jj.github.io/s/cj/hrt/ydwx.json",
+      "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     }
   ]
