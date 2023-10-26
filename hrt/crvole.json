@@ -1,0 +1,20 @@
+{
+  "url": "https://ole-app.crvole.com.cn/vgdt_app_api/v1/vgdt-fea-app-member/front_api/member_sign",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json, text/plain, */*",
+    "channel": "wxmini",
+    "unique": "weapp-eca70e03-9ee5-950a-61c4-fae2b0e7c749",
+    "os": "ios",
+    "Tenant": "VGDT",
+    "shopCode": "206743",
+    "Tenant-Channel": "OLE",
+    "oleWxOpenId": "oRsCp5IYbSKGMd9G2fugudmnTblU"
+  },
+  "body": "{\"enter_shop_code\":\"206743\"}",
+  "tokens": [
+    "81F6ECC153DA474AF01FFBFCD64EF4A7,陈杰",
+    "DF8EBB88AC372242D5DE1F0B95B3FF2F,汐汐",
+  ]
+}
