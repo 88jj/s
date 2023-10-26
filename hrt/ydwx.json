@@ -154,7 +154,142 @@
     {
       "mark": "柳州万象汇抽奖",
       "mallNo": "20009",
-      "saleId": "bc1qcyeekgu7wdnyanm5vtfjxsdwaqnuy36dxth80a"
+      "saleId": "1e2968b592d2469eb46451e6cc24612e"
+    },
+    {
+      "mark": "宁波万象城抽奖",
+      "mallNo": "20066",
+      "saleId": "5e0ef0f2e4554823bbd35ef61c798389"
+    },
+    {
+      "mark": "南京桥北万象抽奖",
+      "mallNo": "20121",
+      "saleId": "82691b92a1ab45998ac697b097a1183e"
+    },
+    {
+      "mark": "PAFC MALL抽奖",
+      "mallNo": "20035SH01",
+      "saleId": "0d49a3eec0f3430fb96ec65209c7c11a"
+    },
+    {
+      "mark": "PAFC MALL抽奖2",
+      "mallNo": "5004A001",
+      "saleId": "1b3d1150b05a4372891c0fd9ad09cfa1"
+    },
+    {
+      "mark": "PAFC MALL抽奖3",
+      "mallNo": "4401A002",
+      "saleId": "c711d5f409e549dca4182c4f87fe89b3"
+    },
+    {
+      "mark": "汕头万汇抽奖",
+      "mallNo": "20058",
+      "saleId": "7517bf23a28c43fd993f101f3348331b"
+    },
+    {
+      "mark": "秦皇岛万汇抽奖",
+      "mallNo": "20146",
+      "saleId": "014f2c600ff94b5283ee3666407a4682"
+    },
+    {
+      "mark": "日照万汇抽奖",
+      "mallNo": "3902A001",
+      "saleId": "75fb234b9a9541b3bad5ffc37e188633"
+    },
+    {
+      "mark": "西单万汇抽奖",
+      "mallNo": "20087",
+      "saleId": "7731865b2bea4ba29b4b65a3a506757c"
+    },
+    {
+      "mark": "沈阳皇姑万汇抽奖",
+      "mallNo": "20107",
+      "saleId": "437e6be97f3449948589c7fe7af7df68"
+    },
+    {
+      "mark": "沈阳三台子万汇抽奖",
+      "mallNo": "2YRJ00201",
+      "saleId": "1ece6b91ccfa403d9012d5fe9c72183d"
+    },
+    {
+      "mark": "沈阳铁西万汇抽奖",
+      "mallNo": "1402B001",
+      "saleId": "94aa5b243259401c863c579495411ab9"
+    },
+    {
+      "mark": "深圳布吉万汇抽奖",
+      "mallNo": "8602A101",
+      "saleId": "08723ccf492b42edaf48e31eafa4f0a7"
+    },
+    {
+      "mark": "深圳万汇前海抽奖",
+      "mallNo": "20098",
+      "saleId": "74cd9a193bf446c89d1b84ac75e8527e"
+    },
+    {
+      "mark": "天津万象城抽奖",
+      "mallNo": "20064",
+      "saleId": "050ba0de75954f508ce946c0e20e2bfd"
+    },
+    {
+      "mark": "太原万象城抽奖",
+      "mallNo": "20161",
+      "saleId": "d284c32ea92a4849bed15679ddf41e1d"
+    },
+    {
+      "mark": "温州滨江万象城抽奖",
+      "mallNo": "20174",
+      "saleId": "1bc2cf2d9e9f45eab1401e4b863003ea"
+    },
+    {
+      "mark": "温州万象城抽奖",
+      "mallNo": "0302A201",
+      "saleId": "aff271c0ac264e6391568f558d145845"
+    },
+    {
+      "mark": "西安万象城抽奖",
+      "mallNo": "20070",
+      "saleId": "2bbb5be7ab914d9ab0f0ad3a7f30373a"
+    },
+    {
+      "mark": "厦门磐基万象城抽奖",
+      "mallNo": "20168",
+      "saleId": "76df3b79769d4711abd3e36022fa0c26"
+    },
+    {
+      "mark": "厦门万象城抽奖",
+      "mallNo": "20001",
+      "saleId": "1638e11ddee34143a62cb5e5a0859ac6"
+    },
+    {
+      "mark": "星沙万象汇抽奖",
+      "mallNo": "1102A001",
+      "saleId": "1482c98b00fd4de088c0feb6b4e4a225"
+    },
+    {
+      "mark": "星咸万象汇抽奖",
+      "mallNo": "4102A101",
+      "saleId": "fce13e2a38864aa28e594c7fb89c6a4b"
+    },
+    {
+      "mark": "扬州万象汇抽奖",
+      "mallNo": "20047",
+      "saleId": "2b72ee3d19274ce8a921e838c10125be"
+    },
+    {
+      "mark": "珠海优特汇抽奖",
+      "mallNo": "20162",
+      "saleId": "2a3c88df66f448b2848d9d5b93552bf6"
+    },
+    {
+      "mark": "中山石岐万象汇抽奖",
+      "mallNo": "20152",
+      "saleId": "539fd5dc27db40bebdac979b98601229"
+    },
+    {
+      "mark": "郑州万象城抽奖",
+      "mallNo": "410100A001",
+      "saleId": "a0e8bf8d3ff54fae8700d0485acfec8f"
     }
   ]
 }
