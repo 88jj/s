@@ -15,5 +15,22 @@
     "ec1d02bac5734d82b44e94b1da9775a7,陈杰",
     "9fad641f46fd40b186a0b32e89272b02,汐汐",
     "8d31cf6828c34e6a8ee6361426939b24,橙子",
+  ],
+  "choujiangCommon": [
+    {
+      "mark": "北京凤凰汇1",
+      "mallNo": "0102C402",
+      "saleId": "50191f9bdc694ed7a4c006b6fb0eb03c"
+    },
+    {
+      "mark": "北京凤凰汇2",
+      "mallNo": "20129",
+      "saleId": "6925b361069145aaa4beafad40371267"
+    },
+    {
+      "mark": "北京密云万象汇抽奖",
+      "mallNo": "0102E001",
+      "saleId": "19717029baaa4bfea43928b781392e37"
+    },
   ]
 }
