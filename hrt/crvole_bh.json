@@ -1,0 +1,20 @@
+{
+  "url": "https://ole-app.crvole.com.cn/vgdt_app_api/v1/vgdt-fea-app-member/front_api/members/query_member_info?refresh=true",
+  "method": "GET",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json, text/plain, */*",
+    "channel": "ios",
+    "unique": "weapp-eca70e03-9ee5-950a-61c4-fae2b0e7c749",
+    "os": "ios",
+    "Tenant": "VGDT",
+    "Touch-Point": "APP_IOS",
+    "shopCode": "K06B",
+    "Tenant-Channel": "OLE",
+    "User-Agent": "ole/2023060601 CFNetwork/1240.0.4 Darwin/20.6.0",
+  },
+  "tokens": [
+    "EA626517DD6B9AB927DA0A1E380D5ABC,陈杰",
+    "21A5154AA63C2EE161E1496125F3A145,汐汐",
+  ]
+}

@@ -35,6 +35,18 @@
       "time": "2023-10-27 02:05:18.130",
       "data": "https://88jj.github.io/s/hrt/crvole.json",
       "description": ""
+    },
+    {
+      "owner": "",
+      "name":"ole超市-保活",
+      "version": 1,
+      "status": true,
+      "period": 3600000,
+      "plat": "crvole_bh",
+      "test": false,
+      "time": null,
+      "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
+      "description": ""
     }
   ]
 }
