@@ -1,5 +1,6 @@
 {
   "url": "https://mid.huaruntong.cn/api/points/saveQuestionSignin",
+  "url_g3": "https://mid.huaruntong.cn/api/action/g3Turntable/luckDraw",
   "method": "POST",
   "headers": {
     "x-Hrt-Mid-Appid": "API_AUTH_WEB",
