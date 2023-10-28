@@ -3,7 +3,7 @@
     {
       "owner": "",
       "name":"华润通-签到&抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 8640000,
       "plat": "hrt",
@@ -15,7 +15,7 @@
     {
       "owner": "",
       "name":"一点万象-签到&抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 8640000,
       "plat": "ydwx",
@@ -27,7 +27,7 @@
     {
       "owner": "",
       "name":"ole超市-签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 8640000,
       "plat": "crvole",
@@ -39,7 +39,7 @@
     {
       "owner": "",
       "name":"ole超市-保活",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": 3600000,
       "plat": "crvole_bh",
