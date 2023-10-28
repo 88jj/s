@@ -8,7 +8,7 @@
     "Host": "app.mixcapp.com",
     "Origin": "https://app.mixcapp.com",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 crland/4.4.0 grayscale/0 /MIXCAPP/3.50.0 AnalysysAgent/Hybrid",
-    "Referer": "https://app.mixcapp.com/m/m-20028/signIn?appVersion=3.50.0&mallNo=20028&timestamp=1698215888838&showWebNavigation=true&hideNativeNavigation=true",
+    "Referer": "https://app.mixcapp.com/m/m-20028/signIn?appVersion=3.50.0&mallNo=20028&timestamp=1698215888838&showWebNavigation=true&hideNativeNavigation=true"
   },
   "tokens": [
     "ec1d02bac5734d82b44e94b1da9775a7,陈杰",
