@@ -3,24 +3,24 @@
     {
       "owner": "",
       "name":"华润通-签到&抽奖",
-      "version": 2,
+      "version": 3,
       "status": true,
       "period": 8640000,
       "plat": "hrt",
       "test": false,
-      "time": "2023-10-29 01:44:18.130",
+      "time": "2023-10-30 00:44:18.130",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
       "owner": "",
       "name":"一点万象-签到&抽奖",
-      "version": 2,
+      "version": 3,
       "status": true,
       "period": 8640000,
       "plat": "ydwx",
       "test": false,
-      "time": "2023-10-29 01:50:18.130",
+      "time": "2023-10-30 00:50:18.130",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
@@ -46,6 +46,18 @@
       "test": false,
       "time": null,
       "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
+      "description": ""
+    },
+    {
+      "owner": "",
+      "name":"永辉",
+      "version": 1,
+      "status": true,
+      "period": null,
+      "plat": "common",
+      "test": false,
+      "time": "2023-10-30 17:32:18.130",
+      "data": "https://88jj.github.io/s/yonghui/pag.json",
       "description": ""
     }
   ]
