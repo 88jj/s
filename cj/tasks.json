@@ -51,12 +51,12 @@
     {
       "owner": "",
       "name":"永辉",
-      "version": 1,
+      "version": 2,
       "status": true,
       "period": null,
       "plat": "common",
       "test": false,
-      "time": "2023-10-30 17:32:18.130",
+      "time": "2023-10-30 17:40:18.130",
       "data": "https://88jj.github.io/s/yonghui/pag.json",
       "description": ""
     }
