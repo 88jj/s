@@ -40,7 +40,7 @@
       "status": true,
       "plat": "crvole_bh",
       "test": false,
-      "cron": "30 34 0/8 * * ?",
+      "cron": "30 0/30 * * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
       "description": ""
     }
