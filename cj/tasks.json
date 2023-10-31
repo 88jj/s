@@ -8,7 +8,7 @@
       "period": 86400000,
       "plat": "hrt",
       "test": false,
-      "time": "2023-11-01 00:44:18.130",
+      "time": "2023-10-01 00:44:18.130",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
@@ -20,7 +20,7 @@
       "period": 28800000,
       "plat": "ydwx",
       "test": false,
-      "time": "2023-11-01 00:50:18.130",
+      "time": "2023-10-01 00:50:18.130",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
@@ -32,7 +32,7 @@
       "period": 86400000,
       "plat": "crvole",
       "test": false,
-      "time": "2023-11-01 01:49:18.130",
+      "time": "2023-10-01 01:49:18.130",
       "data": "https://88jj.github.io/s/hrt/crvole.json",
       "description": ""
     },
