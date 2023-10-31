@@ -3,7 +3,7 @@
     {
       "owner": "",
       "name":"华润通-签到&抽奖",
-      "version": 6,
+      "version": 7,
       "status": true,
       "period": 86400000,
       "plat": "hrt",
@@ -15,7 +15,7 @@
     {
       "owner": "",
       "name":"一点万象-签到&抽奖",
-      "version": 6,
+      "version": 7,
       "status": true,
       "period": 28800000,
       "plat": "ydwx",
