@@ -41,7 +41,7 @@
       "name":"ole超市-保活",
       "version": 9,
       "status": true,
-      "period": 3600000,
+      "period": 1800000,
       "plat": "crvole_bh",
       "test": false,
       "time": null,
