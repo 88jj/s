@@ -1,0 +1,52 @@
+{
+  "tasks":[
+    {
+      "owner": "",
+      "name":"华润通-签到&抽奖",
+      "version": 1,
+      "status": true,
+      "period": 86400000,
+      "plat": "hrt",
+      "test": false,
+      "cron": "18 44 0 * * ?",
+      "data": "https://88jj.github.io/s/hrt/hrt.json",
+      "description": ""
+    },
+    {
+      "owner": "",
+      "name":"一点万象-签到&抽奖",
+      "version": 1,
+      "status": true,
+      "period": 28800000,
+      "plat": "ydwx",
+      "test": false,
+      "cron": "30 44 0 * * ?",
+      "data": "https://88jj.github.io/s/hrt/ydwx.json",
+      "description": ""
+    },
+    {
+      "owner": "",
+      "name":"ole超市-签到",
+      "version": 1,
+      "status": true,
+      "period": 86400000,
+      "plat": "crvole",
+      "test": false,
+      "cron": "30 34 0 * * ?",
+      "data": "https://88jj.github.io/s/hrt/crvole.json",
+      "description": ""
+    },
+    {
+      "owner": "",
+      "name":"ole超市-保活",
+      "version": 1,
+      "status": true,
+      "period": 1800000,
+      "plat": "crvole_bh",
+      "test": false,
+      "cron": "30 34 0/8 * * ?",
+      "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
+      "description": ""
+    }
+  ]
+}
