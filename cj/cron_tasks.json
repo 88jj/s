@@ -14,18 +14,18 @@
     {
       "owner": "",
       "name":"一点万象-签到&抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "30 44 0 * * ?",
+      "cron": "3 01 0,5,9,20 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
     {
       "owner": "",
       "name":"ole超市-签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "crvole",
       "test": false,
@@ -36,7 +36,7 @@
     {
       "owner": "",
       "name":"ole超市-保活",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "crvole_bh",
       "test": false,
