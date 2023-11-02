@@ -5,7 +5,7 @@
       "name":"yqhd8爬虫",
       "version": 1,
       "status": true,
-      "plat": "hrt",
+      "plat": "yqhd8",
       "test": false,
       "cron": "0/10 * * * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
