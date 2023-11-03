@@ -1,13 +1,13 @@
 {
   "tasks":[
     {
-      "owner": "2",
+      "owner": "3",
       "name":"yqhd8爬虫",
       "version": 1,
       "status": true,
       "plat": "yqhd8",
       "test": false,
-      "cron": "0/10 * * * * ?",
+      "cron": "0/30 * * * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
     },
