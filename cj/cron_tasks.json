@@ -1,7 +1,7 @@
 {
   "tasks":[
     {
-      "owner": "3",
+      "owner": "2",
       "name":"yqhd8爬虫",
       "version": 1,
       "status": true,
@@ -14,7 +14,7 @@
     {
       "owner": "3",
       "name":"华润通-签到&抽奖",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "hrt",
       "test": false,
@@ -25,7 +25,7 @@
     {
       "owner": "3",
       "name":"一点万象-签到&抽奖",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name":"ole超市-签到",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "crvole",
       "test": false,
@@ -47,7 +47,7 @@
     {
       "owner": "3",
       "name":"ole超市-保活",
-      "version": 2,
+      "version": 1,
       "status": true,
       "plat": "crvole_bh",
       "test": false,
