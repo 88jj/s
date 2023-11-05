@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name":"ole超市-签到",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "crvole",
       "test": false,
@@ -47,7 +47,7 @@
     {
       "owner": "3",
       "name":"ole超市-保活",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "crvole_bh",
       "test": false,
