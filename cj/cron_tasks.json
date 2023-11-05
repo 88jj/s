@@ -3,11 +3,11 @@
     {
       "owner": "3",
       "name":"yqhd8爬虫",
-      "version": 2,
+      "version": 4,
       "status": true,
       "plat": "yqhd8",
       "test": false,
-      "cron": "30 0/3 * * * ?",
+      "cron": "30 0/3 8-22 * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
     },
