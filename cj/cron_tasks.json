@@ -14,7 +14,7 @@
     {
       "owner": "3",
       "name":"华润通-签到&抽奖",
-      "version": 4,
+      "version": 6,
       "status": true,
       "plat": "hrt",
       "test": false,
@@ -25,11 +25,11 @@
     {
       "owner": "3",
       "name":"一点万象-签到&抽奖",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "32 5 0,1,2,9,17 * * ?",
+      "cron": "32 5 0,1,2,10,17 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
