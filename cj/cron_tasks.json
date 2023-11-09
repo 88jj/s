@@ -29,7 +29,7 @@
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "2 00 0,5,9,20 * * ?",
+      "cron": "2 5 0,1,2,9,17 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },

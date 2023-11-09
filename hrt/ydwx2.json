@@ -1,0 +1,78 @@
+{
+  "url": "https://app.mixcapp.com/mixc/gateway",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Accept": "application/json, text/plain, */*",
+    "Cookie": "WM_TID=t8X1wmEtUfhFRQQQAVOEnzw3lewGA5Rh; FZ_STROAGE.mixcapp.com=eyJTRUVTSU9OSUQiOiI4ODNhOTAyNGNjMzUwMTlmIiwiU0VFU0lPTkRBVEUiOjE2OTgyMTU4OTE5MjQsIkFOU0FQUElEIjoiMTFmODI1MzA1NTZjY2VjNiIsIkFOUyRERUJVRyI6MCwiQU5TVVBMT0FEVVJMIjoiaHR0cHM6Ly9kYXRhcy5taXhjYXBwLmNvbS8iLCJGUklTVERBWSI6IjIwMjMxMDI1IiwiRlJJU1RJTUUiOnRydWUsIkFSS19JRCI6IkpTOWYzNmUyMzFmNTg3YmRkZDMwNWFkZmQyYTFjYmVlMmQ5ZjM2In0%3D; WM_NI=mC4Qa0S19yKXz0LwfjayDlPrxX0ZAPQGDpgx00EP%2BiBTdCc%2B0jg%2FYe%2FzMb9iQ3f1v%2FMKiN1uVkmTHESVsc7ONUI9V6yE7y0r%2BiZZFi9w6ZgvXMgdIFonzhNzfCco2N88djI%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eea9ca4a85b79db6d87a85ac8ba2d54e868b9a86c43abba8b68cd3689c8ba1a6fb2af0fea7c3b92aaf9dfcb2e43c91eff79aca54baf08498e562a3a78c8dd37abc8800bbc45c93998c91e674f4f08bb1aa63828caca4e221f4b6a9d0dc6feda68383bc6393edaad2f5258f95a7afb47f96b5a3b5cb4f918abd84b6458e8b87dad53ebb9bf99ab37ae9b796bbc563fba9fabbe67e9c93a985cc4eadb2b689cd72a69dad90b146fce8ac8bcc37e2a3; ARK_ID=JS9f36e231f587bddd305adfd2a1cbee2d9f36; acw_tc=2f6a1fcc16982158046553885e55dae592c8b266cc535c3e749e4dad1c9f83",
+    "Host": "app.mixcapp.com",
+    "Origin": "https://app.mixcapp.com",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 crland/4.4.0 grayscale/0 /MIXCAPP/3.50.0 AnalysysAgent/Hybrid",
+    "Referer": "https://app.mixcapp.com/m/m-20028/signIn?appVersion=3.50.0&mallNo=20028&timestamp=1698215888838&showWebNavigation=true&hideNativeNavigation=true"
+  },
+  "tokens": [
+    "ec1d02bac5734d82b44e94b1da9775a7,陈杰",
+    "9fad641f46fd40b186a0b32e89272b02,汐汐",
+    "8bab87f5b5cc45dc98c100ac77ea392d,佩佩",
+    "86ccf2d0e37e43c0b884b55a0def74a7,紫文",
+    "75ef0b8df5d34380a368300a9929b6fd,庆庆",
+    "7dcdd26bd7414ba1b6086259e7fc69cb,蛮吉",
+    "a5637df595844ec2b7533cf4bce9833d,微盾",
+    "a8f9ffa3a5c0486e833f372f99102e59,杰拉尔",
+
+    "7a1dc11ff1d449ed8cce12f22ea39d74,橙1",
+    "ed4ae082a23e4702997b309fb538f7bb,橙2"
+  ],
+  "choujiangCommon": [
+    {
+      "mark": "赣州万象汇抽奖4",
+      "mallNo": "20179",
+      "saleId": "c7a7f5bd995845e4ac6e7c5390d40846"
+    },
+    {
+      "mark": "崂山万象汇抽奖",
+      "mallNo": "20126",
+      "saleId": "c2c0718dd58a4e80a9038efe51988154"
+    },
+    {
+      "mark": "宁波万象城抽奖",
+      "mallNo": "20066",
+      "saleId": "5e0ef0f2e4554823bbd35ef61c798389"
+    },
+    {
+      "mark": "PAFC MALL抽奖2",
+      "mallNo": "5004A001",
+      "saleId": "1b3d1150b05a4372891c0fd9ad09cfa1"
+    },
+    {
+      "mark": "星咸万象汇抽奖",
+      "mallNo": "4102A101",
+      "saleId": "fce13e2a38864aa28e594c7fb89c6a4b"
+    },
+    {
+      "mark": "扬州万象汇抽奖",
+      "mallNo": "20047",
+      "saleId": "2b72ee3d19274ce8a921e838c10125be"
+    },
+    {
+      "mark": "北京姚家园万象汇抽奖",
+      "mallNo": "20100",
+      "saleId": "539f1ffb21b045ce9bd6db643136f7d8"
+    },
+    {
+      "mark": "临沂万象抽奖",
+      "mallNo": "20013",
+      "saleId": "09df5c646e2f4199ba4624c1ef986384"
+    },
+    {
+      "mark": "日照万汇抽奖",
+      "mallNo": "3902A001",
+      "saleId": "75fb234b9a9541b3bad5ffc37e188633"
+    },
+    {
+      "mark": "温州万象城抽奖",
+      "mallNo": "0302A201",
+      "saleId": "aff271c0ac264e6391568f558d145845"
+    }
+  ]
+}
