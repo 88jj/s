@@ -24,24 +24,35 @@
     },
     {
       "owner": "3",
-      "name":"一点万象-签到&抽奖",
+      "name":"一点万象",
       "version": 2,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "10 0 0,1,2,10,17 * * ?",
+      "cron": "1 0 0,1,2,10,17 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
     {
       "owner": "3",
-      "name":"一点万象-签到&抽奖-2",
+      "name":"一点万象-huige",
+      "version": 1,
+      "status": true,
+      "plat": "ydwx",
+      "test": false,
+      "cron": "1 5 0,1,2,10,17 * * ?",
+      "data": "https://88jj.github.io/s/hrt/ydwx_huige.json",
+      "description": ""
+    },
+    {
+      "owner": "3",
+      "name":"一点万象-chengzi",
       "version": 1,
       "status": true,
       "plat": "ydwx",
       "test": false,
       "cron": "32 10 0,1,2,10,17 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx2.json",
+      "data": "https://88jj.github.io/s/hrt/ydwx_chengzi.json",
       "description": ""
     },
     {
