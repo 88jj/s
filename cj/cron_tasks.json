@@ -14,7 +14,7 @@
     {
       "owner": "3",
       "name":"华润通-签到&抽奖",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "hrt",
       "test": false,
@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name":"一点万象-huige",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "ydwx",
       "test": false,
