@@ -18,7 +18,7 @@
       "status": true,
       "plat": "hrt",
       "test": false,
-      "cron": "8 01 0 * * ?",
+      "cron": "38 31 0 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
