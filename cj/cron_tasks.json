@@ -25,11 +25,11 @@
     {
       "owner": "3",
       "name":"一点万象",
-      "version": 2,
+      "version": 4,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "10 0 0,1,2,10,17 * * ?",
+      "cron": "5 0 0,10,17 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
@@ -37,10 +37,10 @@
       "owner": "3",
       "name":"一点万象-huige",
       "version": 4,
-      "status": true,
+      "status": false,
       "plat": "ydwx",
       "test": false,
-      "cron": "10 2 0,1,2,10,17 * * ?",
+      "cron": "10 5 0,17 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_huige.json",
       "description": ""
     },
