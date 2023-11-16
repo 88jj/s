@@ -46,17 +46,6 @@
     },
     {
       "owner": "3",
-      "name":"一点万象-chengzi",
-      "version": 1,
-      "status": true,
-      "plat": "ydwx",
-      "test": false,
-      "cron": "32 10 0,1,2,10,17 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx_chengzi.json",
-      "description": ""
-    },
-    {
-      "owner": "3",
       "name":"ole超市-签到",
       "version": 1,
       "status": true,
