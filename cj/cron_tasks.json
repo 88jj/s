@@ -73,7 +73,7 @@
       "status": true,
       "plat": "hrt_ek",
       "test": false,
-      "cron": "38 0/1 * * * ?",
+      "cron": "38 0/10 * * * ?",
       "data": "",
       "description": ""
     }
