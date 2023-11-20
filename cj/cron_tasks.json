@@ -65,6 +65,17 @@
       "cron": "30 0/30 * * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
       "description": ""
+    },
+    {
+      "owner": "3",
+      "name":"华润通-10EK",
+      "version": 1,
+      "status": true,
+      "plat": "hrt_ek",
+      "test": false,
+      "cron": "38 0/1 * * * ?",
+      "data": "",
+      "description": ""
     }
   ]
 }
