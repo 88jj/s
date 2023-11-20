@@ -69,7 +69,7 @@
     {
       "owner": "3",
       "name":"华润通-10EK",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrt_ek",
       "test": false,
