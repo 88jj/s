@@ -35,13 +35,13 @@
     },
     {
       "owner": "3",
-      "name":"一点万象-huige",
-      "version": 4,
-      "status": false,
-      "plat": "ydwx",
+      "name":"华润通积分",
+      "version": 1,
+      "status": true,
+      "plat": "hrt_point",
       "test": false,
-      "cron": "10 5 0,17 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx_huige.json",
+      "cron": "55 55 8,14,22 * * ?",
+      "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
