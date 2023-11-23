@@ -70,7 +70,7 @@
       "owner": "3",
       "name":"华润通-10EK",
       "version": 2,
-      "status": true,
+      "status": false,
       "plat": "hrt_ek",
       "test": false,
       "cron": "38 0/10 * * * ?",
