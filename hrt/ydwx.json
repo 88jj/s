@@ -352,6 +352,30 @@
       "mark": "郑州万象城抽奖",
       "mallNo": "410100A001",
       "saleId": "f5fb83ccccbe4ec6b32464506e1d93e7"
+    },
+    {
+      "mark": "南昌青山湖万象汇",
+      "mallNo": "20080",
+      "saleId": "0a20ab97d6f14b1dba83dcb2b5455146",
+      "status": true
+    },
+    {
+      "mark": "石家庄高新万象汇",
+      "mallNo": "20129",
+      "saleId": "6925b361069145aaa4beafad40371267",
+      "status": true
+    },
+    {
+      "mark": "深圳万象食家",
+      "mallNo": "20097",
+      "saleId": "1f396960bd974d3389acb084f68d185c",
+      "status": true
+    },
+    {
+      "mark": "南昌万象城",
+      "mallNo": "20140",
+      "saleId": "e4f2062d3a5d45f0b8bdc97c4f84f3f1",
+      "status": true
     }
   ]
 }
