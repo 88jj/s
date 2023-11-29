@@ -102,6 +102,11 @@
       "saleId": "42b78764423846349e7020e47fda1400"
     },
     {
+      "mark": "赣州7",
+      "mallNo": "4002A001",
+      "saleId": "4f894473bf0a48cdab475870aea3e77c"
+    },
+    {
       "mark": "哈尔滨",
       "mallNo": "20021",
       "saleId": "eaa82ae2d56e433bb3fea1eef325de5f"
@@ -160,11 +165,6 @@
       "mark": "临沂万象抽奖",
       "mallNo": "20013",
       "saleId": "09df5c646e2f4199ba4624c1ef986384"
-    },
-    {
-      "mark": "宁波",
-      "mallNo": "20067",
-      "saleId": "a89fe57824fe4fdaa7ccf9ab4c231c83"
     },
     {
       "mark": "南京城北",
