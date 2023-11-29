@@ -18,7 +18,7 @@
       "status": true,
       "plat": "hrt",
       "test": false,
-      "cron": "38 31 8 * * ?",
+      "cron": "38 11 7 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
@@ -29,7 +29,7 @@
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "5 0 0,10,14 * * ?",
+      "cron": "2 0 0,10,14 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
@@ -40,7 +40,7 @@
       "status": true,
       "plat": "hrt_point",
       "test": false,
-      "cron": "55 25 8,12 * * ?",
+      "cron": "55 25 8,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
@@ -70,10 +70,10 @@
       "owner": "3",
       "name":"华润通-10EK",
       "version": 2,
-      "status": false,
+      "status": true,
       "plat": "hrt_ek",
       "test": false,
-      "cron": "38 0/10 * * * ?",
+      "cron": "38 0/30 * * * ?",
       "data": "",
       "description": ""
     }
