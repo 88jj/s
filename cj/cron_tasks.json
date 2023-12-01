@@ -24,7 +24,7 @@
     },
     {
       "owner": "3",
-      "name":"一点万象",
+      "name": "一点万象",
       "version": 16,
       "status": true,
       "plat": "ydwx",
@@ -35,7 +35,7 @@
     },
     {
       "owner": "3",
-      "name":"华润通积分",
+      "name": "华润通积分",
       "version": 7,
       "status": true,
       "plat": "hrt_point",
@@ -70,7 +70,7 @@
       "owner": "3",
       "name": "华润通-10EK",
       "version": 2,
-      "status": true,
+      "status": false,
       "plat": "hrt_ek",
       "test": false,
       "cron": "38 0/30 * * * ?",
