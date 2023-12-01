@@ -1,8 +1,8 @@
 {
-  "tasks":[
+  "tasks": [
     {
       "owner": "3",
-      "name":"yqhd8爬虫",
+      "name": "yqhd8爬虫",
       "version": 1,
       "status": true,
       "plat": "yqhd8",
@@ -13,7 +13,7 @@
     },
     {
       "owner": "3",
-      "name":"华润通-签到&抽奖",
+      "name": "华润通-签到&抽奖",
       "version": 5,
       "status": true,
       "plat": "hrt",
@@ -25,7 +25,7 @@
     {
       "owner": "3",
       "name":"一点万象",
-      "version": 13,
+      "version": 16,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name":"华润通积分",
-      "version": 6,
+      "version": 7,
       "status": true,
       "plat": "hrt_point",
       "test": false,
@@ -46,19 +46,19 @@
     },
     {
       "owner": "3",
-      "name":"ole超市-签到",
-      "version": 1,
+      "name": "ole超市-签到",
+      "version": 4,
       "status": true,
       "plat": "crvole",
       "test": false,
-      "cron": "30 4 0 * * ?",
+      "cron": "10 34 8 * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole.json",
       "description": ""
     },
     {
       "owner": "3",
-      "name":"ole超市-保活",
-      "version": 1,
+      "name": "ole超市-保活",
+      "version": 4,
       "status": true,
       "plat": "crvole_bh",
       "test": false,
@@ -68,7 +68,7 @@
     },
     {
       "owner": "3",
-      "name":"华润通-10EK",
+      "name": "华润通-10EK",
       "version": 2,
       "status": true,
       "plat": "hrt_ek",
