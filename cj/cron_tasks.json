@@ -25,11 +25,11 @@
     {
       "owner": "3",
       "name": "一点万象",
-      "version": 18,
+      "version": 19,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "2 0 0,10,14 * * ?",
+      "cron": "2 0 0,1,10,14 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
