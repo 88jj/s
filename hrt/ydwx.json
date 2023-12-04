@@ -16,16 +16,18 @@
     "55aae2fcfea14fceb0fe79f95e77ff3e,汐汐",
     "8bab87f5b5cc45dc98c100ac77ea392d,佩佩",
     "a5637df595844ec2b7533cf4bce9833d,微盾",
+    "7dcdd26bd7414ba1b6086259e7fc69cb,蛮吉",
+    "a8f9ffa3a5c0486e833f372f99102e59,杰拉尔",
+    "cc10c2f4f5034772b3c8b3a2ec9defee,老姐",
+    "5562d92b99e74fde8f545e153565e565,老姐2",
+    "4c3649cdb668447eb8f20d580a3cbf26,宝总",
+    "86ccf2d0e37e43c0b884b55a0def74a7,紫文",
+    "75ef0b8df5d34380a368300a9929b6fd,庆庆",
+    "2d2cfb4a66c345c98eb635fb5675df19,庆庆2",
+    "995c559c0cd0406dadd929f99c76cedc,岳父",
+    "383f9661860f4b6286c2679087986f58,岳母"
   ],
   "choujiangCommon": [
-    {
-      "saleId": "838a0205211b40458ca3de17102c1189",
-      "url": "https://app.mixcapp.com/m/m-0102C402/lottery?id=838a0205211b40458ca3de17102c1189",
-      "id": "0102C402@838a0205211b40458ca3de17102c1189",
-      "mallNo": "0102C402",
-      "mark": "北京凤凰汇",
-      "status": true
-    },
     {
       "saleId": "ad492bfe7c7f4e82af1f6ab7a3cc663a",
       "url": "https://app.mixcapp.com/m/m-0102E001/lottery?id=ad492bfe7c7f4e82af1f6ab7a3cc663a",
@@ -51,14 +53,6 @@
       "status": true
     },
     {
-      "saleId": "4f4f28bd6fd44283b83f728957d38adb",
-      "url": "https://app.mixcapp.com/m/m-0402D101/lottery?id=4f4f28bd6fd44283b83f728957d38adb",
-      "id": "0402D101@4f4f28bd6fd44283b83f728957d38adb",
-      "mallNo": "0402D101",
-      "mark": "成都万象城",
-      "status": true
-    },
-    {
       "saleId": "b16041438ef74d4a8d108c440fbd3f0f",
       "url": "https://app.mixcapp.com/m/m-20060/lottery?id=b16041438ef74d4a8d108c440fbd3f0f",
       "id": "20060@b16041438ef74d4a8d108c440fbd3f0f",
@@ -66,14 +60,7 @@
       "mark": "重庆大渡口",
       "status": true
     },
-    {
-      "saleId": "7ab58f3971ab4fa19389c40040aa3226",
-      "url": "https://app.mixcapp.com/m/m-500000A001/lottery?id=7ab58f3971ab4fa19389c40040aa3226",
-      "id": "500000A001@7ab58f3971ab4fa19389c40040aa3226",
-      "mallNo": "500000A001",
-      "mark": "重庆",
-      "status": true
-    },
+
     {
       "saleId": "0d37f1be33f64dd7b8befd0efa2e8364",
       "url": "https://app.mixcapp.com/m/m-20116/lottery?id=0d37f1be33f64dd7b8befd0efa2e8364",
@@ -187,12 +174,12 @@
       "status": true
     },
     {
-      "saleId": "713f42f473684eb3b4e11f8a71e21429",
-      "url": "https://app.mixcapp.com/m/m-330100A001/lottery?id=713f42f473684eb3b4e11f8a71e21429",
-      "id": "330100A001@713f42f473684eb3b4e11f8a71e21429",
+      "saleId": "3d563c1d8d3c429f9eaf31065fa3293d",
+      "url": "https://app.mixcapp.com/m/m-330100A001/lottery?id=3d563c1d8d3c429f9eaf31065fa3293d",
+      "id": "330100A001@3d563c1d8d3c429f9eaf31065fa3293d",
       "mallNo": "330100A001",
-      "mark": "杭州万象汇抽奖",
-      "status": false
+      "mark": "杭州万象城",
+      "status": true
     },
     {
       "saleId": "05133577bbb44dc088799f3ee9e02f9a",
@@ -299,14 +286,6 @@
       "status": true
     },
     {
-      "saleId": "a505bcd825854e05baaa2ca44e521ff2",
-      "url": "https://app.mixcapp.com/m/m-3502A001/lottery?id=a505bcd825854e05baaa2ca44e521ff2",
-      "id": "3502A001@a505bcd825854e05baaa2ca44e521ff2",
-      "mallNo": "3502A001",
-      "mark": "淄博万象汇抽奖",
-      "status": true
-    },
-    {
       "saleId": "c2c0718dd58a4e80a9038efe51988154",
       "url": "https://app.mixcapp.com/m/m-20126/lottery?id=c2c0718dd58a4e80a9038efe51988154",
       "id": "20126@c2c0718dd58a4e80a9038efe51988154",
@@ -384,22 +363,6 @@
       "id": "3902A001@75fb234b9a9541b3bad5ffc37e188633",
       "mallNo": "3902A001",
       "mark": "日照万汇抽奖",
-      "status": true
-    },
-    {
-      "saleId": "7731865b2bea4ba29b4b65a3a506757c",
-      "url": "https://app.mixcapp.com/m/m-20087/lottery?id=7731865b2bea4ba29b4b65a3a506757c",
-      "id": "20087@7731865b2bea4ba29b4b65a3a506757c",
-      "mallNo": "20087",
-      "mark": "西单万汇抽奖",
-      "status": true
-    },
-    {
-      "saleId": "e39d86ec4de1486e8f1e435713b0f1d6",
-      "url": "https://app.mixcapp.com/m/m-20107/lottery?id=e39d86ec4de1486e8f1e435713b0f1d6",
-      "id": "20107@e39d86ec4de1486e8f1e435713b0f1d6",
-      "mallNo": "20107",
-      "mark": "沈阳皇姑万汇抽奖（概率低）",
       "status": true
     },
     {
@@ -488,14 +451,6 @@
       "id": "20168@b9d30c88020f4c5eb540252b994746be",
       "mallNo": "20168",
       "mark": "厦门磐基万象城抽奖",
-      "status": true
-    },
-    {
-      "saleId": "fa190149c7c148c9a94fd40ec22454d5",
-      "url": "https://app.mixcapp.com/m/m-20001/lottery?id=fa190149c7c148c9a94fd40ec22454d5",
-      "id": "20001@fa190149c7c148c9a94fd40ec22454d5",
-      "mallNo": "20001",
-      "mark": "厦门万象城抽奖",
       "status": true
     },
     {
@@ -617,14 +572,6 @@
       "mallNo": "0602B001",
       "mark": "合肥万象城",
       "status": false
-    },
-    {
-      "saleId": "ea3905ab50a8483ea9dee1a89e587298",
-      "url": "https://app.mixcapp.com/m/m-330100A001/lottery?id=ea3905ab50a8483ea9dee1a89e587298",
-      "id": "330100A001@ea3905ab50a8483ea9dee1a89e587298",
-      "mallNo": "330100A001",
-      "mark": "杭州万象城",
-      "status": true
     },
     {
       "saleId": "68cabe67df344b77be0817cd28ae8908",
@@ -818,14 +765,7 @@
       "mark": "厦门磐基中心",
       "status": true
     },
-    {
-      "saleId": "51d4871fa47c4f36acf885ea853cac11",
-      "url": "https://app.mixcapp.com/m/m-20070/lottery?id=51d4871fa47c4f36acf885ea853cac11",
-      "id": "20070@51d4871fa47c4f36acf885ea853cac11",
-      "mallNo": "20070",
-      "mark": "西安万象天地",
-      "status": true
-    },
+
     {
       "saleId": "061af23d703a42babf112874e4b26a21",
       "url": "https://app.mixcapp.com/m/m-8602A101/lottery?id=061af23d703a42babf112874e4b26a21",
@@ -890,14 +830,7 @@
       "mark": "重庆大渡口万象汇",
       "status": true
     },
-    {
-      "saleId": "a9fa897a24744ccdb64bd887f641d65c",
-      "url": "https://app.mixcapp.com/m/m-0402D101/lottery?id=a9fa897a24744ccdb64bd887f641d65c",
-      "id": "0402D101@a9fa897a24744ccdb64bd887f641d65c",
-      "mallNo": "0402D101",
-      "mark": "成都万象城",
-      "status": true
-    },
+
     {
       "saleId": "3060e44a86a44f05a4ed8524bf35fb63",
       "url": "https://app.mixcapp.com/m/m-0102C402/lottery?id=3060e44a86a44f05a4ed8524bf35fb63",
