@@ -1107,7 +1107,29 @@
       "mallNo": "20087",
       "mark": "西单更新场",
       "status": true
+    },
+    {
+      "cost": 5,
+      "saleId": "4f4f28bd6fd44283b83f728957d38adb",
+      "mallNo": "0402D101",
+      "mark": "成都万象城",
+      "status": true
+    },
+    {
+      "cost": 9,
+      "saleId": "58f209cf9f2f44c9901316b14f1a4dc5",
+      "priority": 6,
+      "mallNo": "20023",
+      "mark": "合肥庐阳",
+      "status": true
+    },
+    {
+      "cost": 9,
+      "saleId": "67c9cb9f571e47f58c16ab190736063b",
+      "priority": 1,
+      "mallNo": "410100A001",
+      "mark": "郑州万象城抽奖",
+      "status": true
     }
   ]
-
 }
