@@ -29,11 +29,19 @@
   ],
   "choujiangCommon": [
     {
-      "saleId": "ad492bfe7c7f4e82af1f6ab7a3cc663a",
-      "url": "https://app.mixcapp.com/m/m-0102E001/lottery?id=ad492bfe7c7f4e82af1f6ab7a3cc663a",
-      "id": "0102E001@ad492bfe7c7f4e82af1f6ab7a3cc663a",
+      "saleId": "55933cea945346959b1db0ce869624a1",
+      "url": "https://app.mixcapp.com/m/m-0102E001/lottery?id=55933cea945346959b1db0ce869624a1",
+      "id": "0102E001@55933cea945346959b1db0ce869624a1",
       "mallNo": "0102E001",
       "mark": "北京密云万象汇",
+      "status": true
+    },
+    {
+      "saleId": "469428eb088244ea99236f7be16edc6e",
+      "url": "https://app.mixcapp.com/m/m-20023/lottery?id=469428eb088244ea99236f7be16edc6e",
+      "id": "20023@469428eb088244ea99236f7be16edc6e",
+      "mallNo": "20023",
+      "mark": "合肥庐阳万象汇",
       "status": true
     },
     {
@@ -86,14 +94,6 @@
       "status": true
     },
     {
-      "saleId": "011a7af4e2544a06a78c931e01828529",
-      "url": "https://app.mixcapp.com/m/m-20023/lottery?id=011a7af4e2544a06a78c931e01828529",
-      "id": "20023@011a7af4e2544a06a78c931e01828529",
-      "mallNo": "20023",
-      "mark": "赣州万象汇抽奖1",
-      "status": false
-    },
-    {
       "saleId": "5c949791665e4c7d9f9c207187eef88e",
       "url": "https://app.mixcapp.com/m/m-20080/lottery?id=5c949791665e4c7d9f9c207187eef88e",
       "id": "20080@5c949791665e4c7d9f9c207187eef88e",
@@ -142,14 +142,6 @@
       "status": false
     },
     {
-      "saleId": "58f209cf9f2f44c9901316b14f1a4dc5",
-      "url": "https://app.mixcapp.com/m/m-20023/lottery?id=58f209cf9f2f44c9901316b14f1a4dc5",
-      "id": "20023@58f209cf9f2f44c9901316b14f1a4dc5",
-      "mallNo": "20023",
-      "mark": "合肥庐阳",
-      "status": true
-    },
-    {
       "saleId": "b55689db2859451e8a9cc69c375344a0",
       "url": "https://app.mixcapp.com/m/m-20076/lottery?id=b55689db2859451e8a9cc69c375344a0",
       "id": "20076@b55689db2859451e8a9cc69c375344a0",
@@ -166,9 +158,9 @@
       "status": false
     },
     {
-      "saleId": "014feb25196444faa7a0d4642a58e2c2",
-      "url": "https://app.mixcapp.com/m/m-20049/lottery?id=014feb25196444faa7a0d4642a58e2c2",
-      "id": "20049@014feb25196444faa7a0d4642a58e2c2",
+      "saleId": "c88d2f98c7324cff8c3a2c91a44f04df",
+      "url": "https://app.mixcapp.com/m/m-20049/lottery?id=c88d2f98c7324cff8c3a2c91a44f04df",
+      "id": "20049@c88d2f98c7324cff8c3a2c91a44f04df",
       "mallNo": "20049",
       "mark": "杭州东站",
       "status": true
@@ -182,9 +174,9 @@
       "status": true
     },
     {
-      "saleId": "05133577bbb44dc088799f3ee9e02f9a",
-      "url": "https://app.mixcapp.com/m/m-20061/lottery?id=05133577bbb44dc088799f3ee9e02f9a",
-      "id": "20061@05133577bbb44dc088799f3ee9e02f9a",
+      "saleId": "651896ee3c324d889b71af1c17a4ab33",
+      "url": "https://app.mixcapp.com/m/m-20061/lottery?id=651896ee3c324d889b71af1c17a4ab33",
+      "id": "20061@651896ee3c324d889b71af1c17a4ab33",
       "mallNo": "20061",
       "mark": "杭州中心抽奖",
       "status": true
@@ -254,6 +246,14 @@
       "status": true
     },
     {
+      "saleId": "b92a4dcc758849c886225f6fa2671c6b",
+      "url": "https://app.mixcapp.com/m/m-20035SH01/lottery?id=b92a4dcc758849c886225f6fa2671c6b",
+      "id": "20035SH01@b92a4dcc758849c886225f6fa2671c6b",
+      "mallNo": "20035SH01",
+      "mark": "PAFC MALL抽奖",
+      "status": true
+    },
+    {
       "saleId": "afd6af2103fc4ffdaef770cc2726107a",
       "url": "https://app.mixcapp.com/m/m-20016/lottery?id=afd6af2103fc4ffdaef770cc2726107a",
       "id": "20016@afd6af2103fc4ffdaef770cc2726107a",
@@ -286,20 +286,20 @@
       "status": true
     },
     {
-      "saleId": "c2c0718dd58a4e80a9038efe51988154",
-      "url": "https://app.mixcapp.com/m/m-20126/lottery?id=c2c0718dd58a4e80a9038efe51988154",
-      "id": "20126@c2c0718dd58a4e80a9038efe51988154",
+      "saleId": "56b1c23aaac8461c8a4dd852d92bb0d8",
+      "url": "https://app.mixcapp.com/m/m-20126/lottery?id=56b1c23aaac8461c8a4dd852d92bb0d8",
+      "id": "20126@56b1c23aaac8461c8a4dd852d92bb0d8",
       "mallNo": "20126",
       "mark": "崂山万象汇抽奖",
-      "status": false
+      "status": true
     },
     {
-      "saleId": "0f1f855d162746f0a3395fcf3a32a3a0",
-      "url": "https://app.mixcapp.com/m/m-20081/lottery?id=0f1f855d162746f0a3395fcf3a32a3a0",
+      "saleId": "0f071c0576e641d086d70f171626849e",
+      "url": "https://app.mixcapp.com/m/m-20081/lottery?id=0f071c0576e641d086d70f171626849e",
       "id": "20081@0f1f855d162746f0a3395fcf3a32a3a0",
       "mallNo": "20081",
       "mark": "兰州万象汇抽奖",
-      "status": false
+      "status": true
     },
     {
       "saleId": "1e2968b592d2469eb46451e6cc24612e",
@@ -314,8 +314,8 @@
       "url": "https://app.mixcapp.com/m/m-20066/lottery?id=5e0ef0f2e4554823bbd35ef61c798389",
       "id": "20066@5e0ef0f2e4554823bbd35ef61c798389",
       "mallNo": "20066",
-      "mark": "宁波万象城抽奖",
-      "status": true
+      "mark": "宁波万象城",
+      "status": false
     },
     {
       "saleId": "82691b92a1ab45998ac697b097a1183e",
@@ -494,12 +494,12 @@
       "status": true
     },
     {
-      "saleId": "0a20ab97d6f14b1dba83dcb2b5455146",
-      "url": "https://app.mixcapp.com/m/m-20080/lottery?id=0a20ab97d6f14b1dba83dcb2b5455146",
-      "id": "20080@0a20ab97d6f14b1dba83dcb2b5455146",
+      "saleId": "6e33598f440a47a7821a61af32c00967",
+      "url": "https://app.mixcapp.com/m/m-20080/lottery?id=6e33598f440a47a7821a61af32c00967",
+      "id": "20080@6e33598f440a47a7821a61af32c00967",
       "mallNo": "20080",
       "mark": "南昌青山湖万象汇",
-      "status": false
+      "status": true
     },
     {
       "saleId": "6925b361069145aaa4beafad40371267",
@@ -547,7 +547,7 @@
       "id": "20144@997c7df92b5d4797910d2fd237711cb7",
       "mallNo": "20144",
       "mark": "北京西三旗万象汇",
-      "status": true
+      "status": false
     },
     {
       "saleId": "7d05224de8ec4674a9fbacc349ab567e",
