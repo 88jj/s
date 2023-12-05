@@ -67,6 +67,14 @@
       "mallNo": "0102C402",
       "mark": "北京凤凰汇",
       "status": true
+    },
+    {
+      "saleId": "7731865b2bea4ba29b4b65a3a506757c",
+      "url": "https://app.mixcapp.com/m/m-20087/lottery?id=7731865b2bea4ba29b4b65a3a506757c",
+      "id": "20087@7731865b2bea4ba29b4b65a3a506757c",
+      "mallNo": "20087",
+      "mark": "西单更新场",
+      "status": true
     }
   ]
 }

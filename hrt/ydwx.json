@@ -694,9 +694,9 @@
       "status": true
     },
     {
-      "saleId": "167b88341f7d45a19bf5c09b90579dac",
-      "url": "https://app.mixcapp.com/m/m-20074/lottery?id=167b88341f7d45a19bf5c09b90579dac",
-      "id": "20074@167b88341f7d45a19bf5c09b90579dac",
+      "saleId": "fa2afe3806ca40b78bde10c3f9db1d50",
+      "url": "https://app.mixcapp.com/m/m-20074/lottery?id=fa2afe3806ca40b78bde10c3f9db1d50",
+      "id": "20074@fa2afe3806ca40b78bde10c3f9db1d50",
       "mallNo": "20074",
       "mark": "沈阳长白万象汇",
       "status": true
@@ -845,6 +845,22 @@
       "id": "20014@a441714ac0774d94852880aa09fae821",
       "mallNo": "20014",
       "mark": "鞍山万象汇",
+      "status": true
+    },
+    {
+      "saleId": "c43e0da45a954270946553a80e7baeac",
+      "url": "https://app.mixcapp.com/m/m-1402A001/lottery?id=c43e0da45a954270946553a80e7baeac",
+      "id": "1402A001@c43e0da45a954270946553a80e7baeac",
+      "mallNo": "1402A001",
+      "mark": "沈阳万象城",
+      "status": true
+    },
+    {
+      "saleId": "92f2994a34ce4c0185c9dec1ed3bfd54",
+      "url": "https://app.mixcapp.com/m/m-3202A099/lottery?id=92f2994a34ce4c0185c9dec1ed3bfd54",
+      "id": "3202A099@92f2994a34ce4c0185c9dec1ed3bfd54",
+      "mallNo": "3202A099",
+      "mark": "泰州万象城",
       "status": true
     }
   ]
