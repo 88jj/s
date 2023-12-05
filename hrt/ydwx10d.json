@@ -29,49 +29,61 @@
   ],
   "choujiangCommon": [
     {
+      "cost": 9,
       "saleId": "7ab58f3971ab4fa19389c40040aa3226",
       "url": "https://app.mixcapp.com/m/m-500000A001/lottery?id=7ab58f3971ab4fa19389c40040aa3226",
       "id": "500000A001@7ab58f3971ab4fa19389c40040aa3226",
+      "_id": 1181594087342473216,
       "mallNo": "500000A001",
       "mark": "重庆",
       "status": true
     },
     {
+      "cost": 6,
       "saleId": "e39d86ec4de1486e8f1e435713b0f1d6",
       "url": "https://app.mixcapp.com/m/m-20107/lottery?id=e39d86ec4de1486e8f1e435713b0f1d6",
       "id": "20107@e39d86ec4de1486e8f1e435713b0f1d6",
+      "_id": 1181594087342473217,
       "mallNo": "20107",
       "mark": "沈阳皇姑万汇抽奖（概率低）",
       "status": true
     },
     {
+      "cost": 9,
       "saleId": "51d4871fa47c4f36acf885ea853cac11",
       "url": "https://app.mixcapp.com/m/m-20070/lottery?id=51d4871fa47c4f36acf885ea853cac11",
       "id": "20070@51d4871fa47c4f36acf885ea853cac11",
+      "_id": 1181594087342473218,
       "mallNo": "20070",
       "mark": "西安万象天地",
       "status": true
     },
     {
+      "cost": 5,
       "saleId": "a9fa897a24744ccdb64bd887f641d65c",
       "url": "https://app.mixcapp.com/m/m-0402D101/lottery?id=a9fa897a24744ccdb64bd887f641d65c",
       "id": "0402D101@a9fa897a24744ccdb64bd887f641d65c",
+      "_id": 1181594087342473219,
       "mallNo": "0402D101",
       "mark": "成都万象城",
       "status": true
     },
     {
+      "cost": 5,
       "saleId": "838a0205211b40458ca3de17102c1189",
       "url": "https://app.mixcapp.com/m/m-0102C402/lottery?id=838a0205211b40458ca3de17102c1189",
       "id": "0102C402@838a0205211b40458ca3de17102c1189",
+      "_id": 1181594087342473220,
       "mallNo": "0102C402",
       "mark": "北京凤凰汇",
       "status": true
     },
     {
+      "cost": 5,
       "saleId": "7731865b2bea4ba29b4b65a3a506757c",
       "url": "https://app.mixcapp.com/m/m-20087/lottery?id=7731865b2bea4ba29b4b65a3a506757c",
       "id": "20087@7731865b2bea4ba29b4b65a3a506757c",
+      "_id": 1181594087342473221,
       "mallNo": "20087",
       "mark": "西单更新场",
       "status": true
