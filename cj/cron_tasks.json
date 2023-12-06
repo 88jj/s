@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖",
-      "version": 4,
+      "version": 5,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -47,7 +47,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖-10点",
-      "version": 4,
+      "version": 5,
       "status": true,
       "plat": "ydwx",
       "test": false,

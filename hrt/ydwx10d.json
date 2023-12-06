@@ -87,6 +87,15 @@
       "mallNo": "20087",
       "mark": "西单更新场",
       "status": true
+    },
+    {
+      "cost": 9,
+      "saleId": "95326f9a73bd4df28563a4d89c1f593f",
+      "url": "https://app.mixcapp.com/m/m-20152/lottery?id=95326f9a73bd4df28563a4d89c1f593f",
+      "id": "20152@95326f9a73bd4df28563a4d89c1f593f",
+      "mallNo": "20152",
+      "mark": "中山石岐万象汇抽奖",
+      "status": true
     }
   ]
 }

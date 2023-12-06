@@ -346,7 +346,7 @@
       "_id": 1181594087145340935,
       "mallNo": "20126",
       "mark": "青岛崂山万象汇",
-      "status": false
+      "status": true
     },
     {
       "cost": 0,
@@ -483,6 +483,16 @@
       "saleId": "e7a5ef76dcc0452ea41a8377af62a2a4",
       "url": "https://app.mixcapp.com/m/m-20015/lottery?id=e7a5ef76dcc0452ea41a8377af62a2a4",
       "id": "20015@e7a5ef76dcc0452ea41a8377af62a2a4",
+      "_id": 1181594087145340949,
+      "mallNo": "20015",
+      "mark": "深圳湾",
+      "status": true
+    },
+    {
+      "cost": 9,
+      "saleId": "6ec28468adea42118be595c3138519e1",
+      "url": "https://app.mixcapp.com/m/m-20015/lottery?id=6ec28468adea42118be595c3138519e1",
+      "id": "20015@6ec28468adea42118be595c3138519e1",
       "_id": 1181594087145340949,
       "mallNo": "20015",
       "mark": "深圳湾",
@@ -674,6 +684,15 @@
       "url": "https://app.mixcapp.com/m/m-20106/lottery?id=7d05224de8ec4674a9fbacc349ab567e",
       "id": "20106@7d05224de8ec4674a9fbacc349ab567e",
       "_id": 1181594087208255504,
+      "mallNo": "20106",
+      "mark": "大连华南万象汇",
+      "status": true
+    },
+    {
+      "cost": 8,
+      "saleId": "71aed0c170b04a008d7e418757da6275",
+      "url": "https://app.mixcapp.com/m/m-20106/lottery?id=71aed0c170b04a008d7e418757da6275",
+      "id": "20106@71aed0c170b04a008d7e418757da6275",
       "mallNo": "20106",
       "mark": "大连华南万象汇",
       "status": true
@@ -1066,6 +1085,16 @@
       "_id": 1181594087342473217,
       "mallNo": "20107",
       "mark": "沈阳皇姑万汇抽奖（概率低）",
+      "status": true
+    },
+    {
+      "cost": 6,
+      "saleId": "80a1616317984bfc966efd12bdc1e9d0",
+      "url": "https://app.mixcapp.com/m/m-20107/lottery?id=80a1616317984bfc966efd12bdc1e9d0",
+      "id": "20107@80a1616317984bfc966efd12bdc1e9d0",
+      "_id": 1181594087342473217,
+      "mallNo": "20107",
+      "mark": "沈阳皇姑万汇抽奖",
       "status": true
     },
     {
