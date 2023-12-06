@@ -595,7 +595,7 @@
       "id": "410100A001@f5fb83ccccbe4ec6b32464506e1d93e7",
       "_id": 1181594087208255496,
       "mallNo": "410100A001",
-      "mark": "郑州万象城抽奖",
+      "mark": "郑州万象城",
       "status": true
     },
     {
@@ -1121,14 +1121,6 @@
       "priority": 6,
       "mallNo": "20023",
       "mark": "合肥庐阳",
-      "status": true
-    },
-    {
-      "cost": 9,
-      "saleId": "67c9cb9f571e47f58c16ab190736063b",
-      "priority": 1,
-      "mallNo": "410100A001",
-      "mark": "郑州万象城抽奖",
       "status": true
     }
   ]
