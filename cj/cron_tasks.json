@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖",
-      "version": 6,
+      "version": 7,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -47,11 +47,11 @@
     {
       "owner": "3",
       "name": "一点万象抽奖-10点",
-      "version": 6,
+      "version": 7,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "4 1 10 * * ?",
+      "cron": "1 0 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
