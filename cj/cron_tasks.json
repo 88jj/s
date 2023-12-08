@@ -14,18 +14,18 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖",
-      "version": 9,
+      "version": 10,
       "status": true,
       "plat": "hrt",
       "test": false,
-      "cron": "38 58 6 * * ?",
+      "cron": "38 53 6 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "一点万象签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx_qd",
       "test": false,
@@ -36,7 +36,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -47,7 +47,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖-10点",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "ydwx",
       "test": false,
@@ -58,7 +58,7 @@
     {
       "owner": "3",
       "name": "华润通积分",
-      "version": 9,
+      "version": 10,
       "status": true,
       "plat": "hrt_point",
       "test": false,
@@ -69,7 +69,7 @@
     {
       "owner": "3",
       "name": "ole超市-签到",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "crvole",
       "test": false,
@@ -80,7 +80,7 @@
     {
       "owner": "3",
       "name": "ole超市-保活",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "crvole_bh",
       "test": false,
