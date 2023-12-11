@@ -142,14 +142,14 @@
       "status": true
     },
     {
-      "cost": 0,
-      "saleId": "26274b7dbf1b48c3b17c945ff5d30e4d",
-      "url": "https://app.mixcapp.com/m/m-20140/lottery?id=26274b7dbf1b48c3b17c945ff5d30e4d",
-      "id": "20140@26274b7dbf1b48c3b17c945ff5d30e4d",
+      "cost": 9,
+      "saleId": "0cf6632a8af8456fbc16c37a41cfe399",
+      "url": "https://app.mixcapp.com/m/m-20140/lottery?id=0cf6632a8af8456fbc16c37a41cfe399",
+      "id": "20140@0cf6632a8af8456fbc16c37a41cfe399",
       "_id": 1181594087078232068,
       "mallNo": "20140",
-      "mark": "赣州万象汇抽奖5",
-      "status": false
+      "mark": "赣州万象汇",
+      "status": true
     },
     {
       "cost": 9,
@@ -811,6 +811,15 @@
       "status": true
     },
     {
+      "cost": 5,
+      "saleId": "64edb4f86575439db8173a1f390a515d",
+      "url": "https://app.mixcapp.com/m/m-20094/lottery?id=64edb4f86575439db8173a1f390a515d",
+      "id": "20094@64edb4f86575439db8173a1f390a515d",
+      "mallNo": "20094",
+      "mark": "南宁中山路万象汇",
+      "status": true
+    },
+    {
       "cost": 9,
       "saleId": "64601128143e42cb9410761ec99cf572",
       "url": "https://app.mixcapp.com/m/m-2402A101/lottery?id=64601128143e42cb9410761ec99cf572",
@@ -1153,6 +1162,15 @@
       "priority": 6,
       "mallNo": "20023",
       "mark": "合肥庐阳",
+      "status": true
+    },
+    {
+      "cost": 9,
+      "saleId": "6d9ab22d681c4af09c4d3a068362168d",
+      "url": "https://app.mixcapp.com/m/m-330100A001/lottery?id=6d9ab22d681c4af09c4d3a068362168d",
+      "id": "330100A001@6d9ab22d681c4af09c4d3a068362168d",
+      "mallNo": "330100A001",
+      "mark": "杭州万象城",
       "status": true
     }
   ]
