@@ -36,22 +36,22 @@
     {
       "owner": "3",
       "name": "一点万象抽奖",
-      "version": 8,
+      "version": 9,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "4 0 0,7 * * ?",
+      "cron": "0 0 0,7 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "一点万象抽奖-10点",
-      "version": 8,
+      "version": 9,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "1 0 10 * * ?",
+      "cron": "0 0 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
