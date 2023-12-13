@@ -69,11 +69,11 @@
     {
       "owner": "3",
       "name": "华润通积分",
-      "version": 10,
+      "version": 11,
       "status": true,
       "plat": "hrt_point",
       "test": false,
-      "cron": "55 25 8,13,23 * * ?",
+      "cron": "55 25 8,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
