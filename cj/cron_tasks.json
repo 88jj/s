@@ -57,6 +57,17 @@
     },
     {
       "owner": "3",
+      "name": "一点万象抽奖-刷新缓存",
+      "version": 1,
+      "status": false,
+      "plat": "ydwx_cache",
+      "test": false,
+      "cron": "57 56 9,23 * * ?",
+      "data": "",
+      "description": ""
+    },
+    {
+      "owner": "3",
       "name": "华润通积分",
       "version": 10,
       "status": true,
