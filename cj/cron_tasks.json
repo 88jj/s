@@ -109,6 +109,17 @@
       "cron": "38 0/30 * * * ?",
       "data": "",
       "description": ""
+    },
+    {
+      "owner": "3",
+      "name": "fuck-建行E",
+      "version": 1,
+      "status": false,
+      "plat": "fuck",
+      "test": false,
+      "cron": "0/1 * * * * ?",
+      "data": "https://88jj.github.io/s/fuck/1.txt",
+      "description": ""
     }
   ]
 }

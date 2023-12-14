@@ -1,0 +1,13 @@
+POST /prod-api/wechat/fair/exchange HTTP/1.1
+Host: manager.match.ccb.com
+Content-Type: application/json;charset=utf-8
+Origin: https://api.match.ccb.com
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.44(0x18002c2b) NetType/WIFI Language/zh_CN
+Referer: https://api.match.ccb.com/dh/xzvrbank/index.html?code=091tUlFa1IOmyG0VjwIa1G8kTC3tUlF4
+Content-Length: 171
+Accept-Language: zh-cn
+
+{"openToken":"58B2B49CF62212EF9097B56DD9309AB061E3AFC5565EE26C08F8AAA0AD4012F2459199851BB6AB8B2C8D0CFE509A3B98C5FB0D71700625403D88F4A83511A906","taskId":17,"fairId":"101"}
