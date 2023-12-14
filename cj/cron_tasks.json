@@ -113,8 +113,8 @@
     {
       "owner": "3",
       "name": "fuck-建行E",
-      "version": 2,
-      "status": true,
+      "version": 3,
+      "status": false,
       "plat": "fuck",
       "test": false,
       "cron": "0/1 * * * * ?",
