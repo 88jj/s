@@ -33,7 +33,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖",
-      "version": 13,
+      "version": 14,
       "status": true,
       "plat": "ydwx",
       "cron": "0 0 0,10 * * ?",
@@ -43,7 +43,7 @@
     {
       "owner": "3",
       "name": "一点万象抽奖-10点",
-      "version": 13,
+      "version": 14,
       "status": true,
       "plat": "ydwx",
       "cron": "10 0 10 * * ?",
