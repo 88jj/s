@@ -1,34 +1,31 @@
 {
   "tasks": [
     {
-      "owner": "3",
+      "owner": "cz",
       "name": "yqhd8爬虫",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "yqhd8",
-      "test": false,
-      "cron": "30 0/3 7-22 * * ?",
+      "cron": "30 0/1 7-22 * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "cz",
       "name": "华润通-签到&抽奖",
       "version": 11,
       "status": true,
       "plat": "hrt",
-      "test": false,
       "cron": "38 53 6 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "cz",
       "name": "一点万象签到",
       "version": 3,
       "status": true,
       "plat": "ydwx_qd",
-      "test": false,
       "cron": "35 0 7 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_qd.json",
       "description": ""
@@ -39,7 +36,6 @@
       "version": 13,
       "status": true,
       "plat": "ydwx",
-      "test": false,
       "cron": "0 0 0,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
@@ -50,30 +46,27 @@
       "version": 13,
       "status": true,
       "plat": "ydwx",
-      "test": false,
       "cron": "10 0 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "cz",
       "name": "一点万象抽奖_other",
-      "version": 13,
+      "version": 14,
       "status": true,
       "plat": "ydwxV2",
-      "test": false,
       "cron": "0 3 0,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_other.json",
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "cz",
       "name": "一点万象抽奖_other-10点",
-      "version": 13,
+      "version": 14,
       "status": true,
       "plat": "ydwxV2",
-      "test": false,
-      "cron": "10 10 10 * * ?",
+      "cron": "10 1 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_other10d.json",
       "description": ""
     },
@@ -83,7 +76,6 @@
       "version": 2,
       "status": true,
       "plat": "ydwx_cache",
-      "test": false,
       "cron": "57 56 9,23 * * ?",
       "data": "",
       "description": ""
@@ -94,7 +86,6 @@
       "version": 12,
       "status": true,
       "plat": "hrt_point",
-      "test": false,
       "cron": "55 25 8,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
@@ -105,7 +96,6 @@
       "version": 6,
       "status": true,
       "plat": "crvole",
-      "test": false,
       "cron": "10 34 8 * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole.json",
       "description": ""
@@ -116,7 +106,6 @@
       "version": 6,
       "status": true,
       "plat": "crvole_bh",
-      "test": false,
       "cron": "30 0/30 * * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
       "description": ""
@@ -127,7 +116,6 @@
       "version": 2,
       "status": false,
       "plat": "hrt_ek",
-      "test": false,
       "cron": "38 0/30 * * * ?",
       "data": "",
       "description": ""
@@ -138,7 +126,6 @@
       "version": 3,
       "status": false,
       "plat": "fuck",
-      "test": false,
       "cron": "0/1 * * * * ?",
       "data": "https://88jj.github.io/s/fuck/1.txt",
       "description": ""
