@@ -46,7 +46,7 @@
       "version": 15,
       "status": true,
       "plat": "ydwx",
-      "cron": "10 10 10 * * ?",
+      "cron": "10 15 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
