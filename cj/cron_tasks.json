@@ -93,8 +93,8 @@
     {
       "owner": "cz",
       "name": "ole超市-签到",
-      "version": 6,
-      "status": true,
+      "version": 7,
+      "status": false,
       "plat": "crvole",
       "cron": "10 34 8 * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole.json",
@@ -103,8 +103,8 @@
     {
       "owner": "cz",
       "name": "ole超市-保活",
-      "version": 6,
-      "status": true,
+      "version": 7,
+      "status": false,
       "plat": "crvole_bh",
       "cron": "30 0/30 * * * ?",
       "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
