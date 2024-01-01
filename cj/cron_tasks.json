@@ -11,9 +11,9 @@
       "description": ""
     },
     {
-      "owner": "cz",
+      "owner": "2",
       "name": "华润通-签到&抽奖",
-      "version": 12,
+      "version": 1,
       "status": true,
       "plat": "hrt",
       "cron": "18 44 8 * * ?",
@@ -21,9 +21,9 @@
       "description": ""
     },
     {
-      "owner": "cz",
+      "owner": "2",
       "name": "一点万象签到",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "ydwx_qd",
       "cron": "35 0 7 * * ?",
@@ -31,9 +31,9 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "2",
       "name": "一点万象抽奖",
-      "version": 18,
+      "version": 1,
       "status": true,
       "plat": "ydwx",
       "cron": "0 0 0 * * ?",
@@ -41,12 +41,12 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "2",
       "name": "一点万象抽奖-10点",
-      "version": 18,
+      "version": 1,
       "status": true,
       "plat": "ydwx",
-      "cron": "4 0 10 * * ?",
+      "cron": "4 1 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
@@ -71,7 +71,7 @@
       "description": ""
     },
     {
-      "owner": "3,cz",
+      "owner": "2,3,cz",
       "name": "一点万象抽奖-刷新缓存",
       "version": 2,
       "status": true,
@@ -81,7 +81,7 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "2",
       "name": "华润通积分",
       "version": 12,
       "status": true,
@@ -93,7 +93,7 @@
     {
       "owner": "cz",
       "name": "ole超市-签到",
-      "version": 7,
+      "version": 1,
       "status": false,
       "plat": "crvole",
       "cron": "10 34 8 * * ?",
@@ -103,7 +103,7 @@
     {
       "owner": "cz",
       "name": "ole超市-保活",
-      "version": 7,
+      "version": 1,
       "status": false,
       "plat": "crvole_bh",
       "cron": "30 0/30 * * * ?",
@@ -111,7 +111,7 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "2",
       "name": "华润通-10EK",
       "version": 2,
       "status": false,
@@ -121,7 +121,7 @@
       "description": ""
     },
     {
-      "owner": "3",
+      "owner": "2",
       "name": "fuck-建行E",
       "version": 3,
       "status": false,
