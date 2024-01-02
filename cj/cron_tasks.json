@@ -81,12 +81,12 @@
       "description": ""
     },
     {
-      "owner": "2,3,cz",
+      "owner": "cz",
       "name": "一点万象抽奖-更新官网活动",
       "version": 1,
       "status": true,
       "plat": "ydwx_cache",
-      "cron": "7 6 3,22 * * ?",
+      "cron": "7 36 22 * * ?",
       "data": "",
       "description": ""
     },
