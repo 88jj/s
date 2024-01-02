@@ -12,7 +12,7 @@
     },
     {
       "owner": "2",
-      "name": "华润通-签到&抽奖",
+      "name": "华润通-签到",
       "version": 1,
       "status": true,
       "plat": "hrt",
@@ -73,7 +73,7 @@
     {
       "owner": "2,3,cz",
       "name": "一点万象抽奖-刷新缓存",
-      "version": 2,
+      "version": 1,
       "status": true,
       "plat": "ydwx_cache",
       "cron": "57 56 9,23 * * ?",
@@ -81,12 +81,22 @@
       "description": ""
     },
     {
+      "owner": "2,3,cz",
+      "name": "一点万象抽奖-更新官网活动",
+      "version": 1,
+      "status": true,
+      "plat": "ydwx_cache",
+      "cron": "7 6 3,22 * * ?",
+      "data": "",
+      "description": ""
+    },
+    {
       "owner": "2",
       "name": "华润通积分",
-      "version": 12,
+      "version": 1,
       "status": true,
       "plat": "hrt_point",
-      "cron": "55 25 8,10 * * ?",
+      "cron": "35 31 7,10 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
@@ -111,7 +121,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "cz",
       "name": "华润通-10EK",
       "version": 2,
       "status": false,
@@ -121,7 +131,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "cz",
       "name": "fuck-建行E",
       "version": 3,
       "status": false,
