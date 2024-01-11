@@ -23,7 +23,7 @@
     {
       "owner": "2",
       "name": "一点万象签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx_qd",
       "cron": "35 0 7 * * ?",
