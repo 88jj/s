@@ -93,10 +93,10 @@
     {
       "owner": "2",
       "name": "一点万象抽奖-清理",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "ydwx_clear",
-      "cron": "57 21 16 0/2 * ?",
+      "cron": "57 21 16 1/2 * ?",
       "data": "",
       "description": ""
     },
