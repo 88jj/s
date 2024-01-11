@@ -76,7 +76,7 @@
       "version": 1,
       "status": true,
       "plat": "ydwx_cache",
-      "cron": "57 56 9,23 * * ?",
+      "cron": "57 50 9,23 * * ?",
       "data": "",
       "description": ""
     },
