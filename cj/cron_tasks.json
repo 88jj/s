@@ -91,6 +91,16 @@
       "description": ""
     },
     {
+      "owner": "cz",
+      "name": "一点万象抽奖-清理",
+      "version": 1,
+      "status": true,
+      "plat": "ydwx_clear",
+      "cron": "57 21 16 * * ?",
+      "data": "",
+      "description": ""
+    },
+    {
       "owner": "2",
       "name": "华润通积分",
       "version": 1,
