@@ -83,9 +83,9 @@
     {
       "owner": "cz",
       "name": "一点万象抽奖-更新官网活动",
-      "version": 1,
+      "version": 2,
       "status": true,
-      "plat": "ydwx_cache",
+      "plat": "ydwx_update",
       "cron": "7 36 22 * * ?",
       "data": "",
       "description": ""
