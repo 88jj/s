@@ -149,6 +149,16 @@
       "cron": "0/1 * * * * ?",
       "data": "https://88jj.github.io/s/fuck/1.txt",
       "description": ""
+    },
+    {
+      "owner": "cz",
+      "name": "fuck-xpm",
+      "version": 1,
+      "status": true,
+      "plat": "xpm",
+      "cron": "0 0,1,2,3,4,5 * * * ?",
+      "data": "https://88jj.github.io/s/xpm/1.json",
+      "description": ""
     }
   ]
 }
