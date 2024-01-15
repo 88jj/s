@@ -33,7 +33,7 @@
     {
       "owner": "2",
       "name": "一点万象抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx",
       "cron": "0 0 0 * * ?",
@@ -43,7 +43,7 @@
     {
       "owner": "2",
       "name": "一点万象抽奖-10点",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx",
       "cron": "4 1 10 * * ?",
@@ -53,7 +53,7 @@
     {
       "owner": "cz",
       "name": "一点万象抽奖_other",
-      "version": 14,
+      "version": 15,
       "status": true,
       "plat": "ydwxV2",
       "cron": "0 3 0,10 * * ?",
@@ -63,7 +63,7 @@
     {
       "owner": "cz",
       "name": "一点万象抽奖_other-10点",
-      "version": 14,
+      "version": 15,
       "status": true,
       "plat": "ydwxV2",
       "cron": "17 4 10 * * ?",
