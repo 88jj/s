@@ -156,7 +156,7 @@
       "version": 2,
       "status": true,
       "plat": "xpm",
-      "cron": "0 0,1,2,3,4,5 * * * ?",
+      "cron": "0-5 0 10 * * ?",
       "data": "https://88jj.github.io/s/xpm/1.json",
       "description": ""
     }
