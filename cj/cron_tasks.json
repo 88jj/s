@@ -164,7 +164,7 @@
       "owner": "cz",
       "name": "qfxbw爬虫",
       "version": 1,
-      "status": false,
+      "status": true,
       "plat": "qfxbw",
       "cron": "53 0/5 7-22 * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
