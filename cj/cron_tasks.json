@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "owner": "cz",
-      "name": "yqhd8爬虫",
-      "version": 4,
-      "status": false,
-      "plat": "yqhd8",
-      "cron": "30 0/3 7-22 * * ?",
-      "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
-      "description": ""
-    },
-    {
       "owner": "2",
       "name": "华润通-签到",
       "version": 1,
@@ -158,6 +148,26 @@
       "plat": "xpm",
       "cron": "0-5 0 10 * * ?",
       "data": "https://88jj.github.io/s/xpm/1.json",
+      "description": ""
+    },
+    {
+      "owner": "cz",
+      "name": "yqhd8爬虫",
+      "version": 4,
+      "status": false,
+      "plat": "yqhd8",
+      "cron": "30 0/3 7-22 * * ?",
+      "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
+      "description": ""
+    },
+    {
+      "owner": "cz",
+      "name": "qfxbw爬虫",
+      "version": 1,
+      "status": true,
+      "plat": "qfxbw",
+      "cron": "39 0/3 7-22 * * ?",
+      "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
     }
   ]
