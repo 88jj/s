@@ -143,8 +143,8 @@
     {
       "owner": "cz",
       "name": "fuck-xpm",
-      "version": 4,
-      "status": true,
+      "version": 5,
+      "status": false,
       "plat": "xpm",
       "cron": "0-5 0 10 * * ?",
       "data": "https://88jj.github.io/s/xpm/1.json",
