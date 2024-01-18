@@ -1,15 +1,6 @@
 {
-  "url": "https://mid.huaruntong.cn/api/points/saveQuestionSignin",
-  "url_g3": "https://mid.huaruntong.cn/api/action/g3Turntable/luckDraw",
-  "method": "POST",
-  "headers": {
-    "x-Hrt-Mid-Appid": "API_AUTH_WEB",
-    "X-HRT-MID-NEWRISK": "newRisk",
-    "Content-Type": "application/json;charset=utf-8",
-    "Accept": "application/json"
-  },
   "myToken": "22afbb30713bbbead721113f3f2f2ac1a,陈杰",
-  "tokens":[
+  "tokens": [
     "22afbb30713bbbead721113f3f2f2ac1a,陈杰",
     "27ac8fa355efdf96eca301cdce80adee2,佩佩",
     "13613b7186a6ab723c913d731dca6b4c7,文文",
@@ -20,15 +11,15 @@
     "2fc598895d72002acd57e9f1d1077ee9b,杰拉尔",
     "0351b315acec02e8f87ce5be2abf201b7,风风",
     "11824c32b58d9dbcbb928cc678b4bf9c0,新新",
-    "3346a3da2d4edac1644d5d1fdb972c72d,蛮吉",
     "1ee4286b8cfe42153cd370ebeba1d94f5,小肉",
-
+    "36a041f1afbe60e6c92b9f4a267fd3b6d,老姐",
+    "2927bfbd32eb3ebd3e4e20123726a71f8,老姐2"
+  ],
+  "tokens2": [
+    "3346a3da2d4edac1644d5d1fdb972c72d,蛮吉",
     "1fc26d5a2843bc271404aa5b26439e8e2,宝总",
     "168708291ef9474de1d29bf91fa196145,紫文",
     "10f67d94c4e98cfce7bcc6b6e67914a23,庆庆",
-    "1b22a86d3d9560890598194e73c7faed3,庆庆2",
-
-    "36a041f1afbe60e6c92b9f4a267fd3b6d,老姐",
-    "2927bfbd32eb3ebd3e4e20123726a71f8,老姐2"
+    "1b22a86d3d9560890598194e73c7faed3,庆庆2"
   ]
 }
