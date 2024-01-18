@@ -1,15 +1,4 @@
 {
-  "url": "https://app.mixcapp.com/mixc/gateway",
-  "method": "POST",
-  "headers": {
-    "Content-Type": "application/x-www-form-urlencoded",
-    "Accept": "application/json, text/plain, */*",
-    "Cookie": "WM_TID=t8X1wmEtUfhFRQQQAVOEnzw3lewGA5Rh; FZ_STROAGE.mixcapp.com=eyJTRUVTSU9OSUQiOiI4ODNhOTAyNGNjMzUwMTlmIiwiU0VFU0lPTkRBVEUiOjE2OTgyMTU4OTE5MjQsIkFOU0FQUElEIjoiMTFmODI1MzA1NTZjY2VjNiIsIkFOUyRERUJVRyI6MCwiQU5TVVBMT0FEVVJMIjoiaHR0cHM6Ly9kYXRhcy5taXhjYXBwLmNvbS8iLCJGUklTVERBWSI6IjIwMjMxMDI1IiwiRlJJU1RJTUUiOnRydWUsIkFSS19JRCI6IkpTOWYzNmUyMzFmNTg3YmRkZDMwNWFkZmQyYTFjYmVlMmQ5ZjM2In0%3D; WM_NI=mC4Qa0S19yKXz0LwfjayDlPrxX0ZAPQGDpgx00EP%2BiBTdCc%2B0jg%2FYe%2FzMb9iQ3f1v%2FMKiN1uVkmTHESVsc7ONUI9V6yE7y0r%2BiZZFi9w6ZgvXMgdIFonzhNzfCco2N88djI%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eea9ca4a85b79db6d87a85ac8ba2d54e868b9a86c43abba8b68cd3689c8ba1a6fb2af0fea7c3b92aaf9dfcb2e43c91eff79aca54baf08498e562a3a78c8dd37abc8800bbc45c93998c91e674f4f08bb1aa63828caca4e221f4b6a9d0dc6feda68383bc6393edaad2f5258f95a7afb47f96b5a3b5cb4f918abd84b6458e8b87dad53ebb9bf99ab37ae9b796bbc563fba9fabbe67e9c93a985cc4eadb2b689cd72a69dad90b146fce8ac8bcc37e2a3; ARK_ID=JS9f36e231f587bddd305adfd2a1cbee2d9f36; acw_tc=2f6a1fcc16982158046553885e55dae592c8b266cc535c3e749e4dad1c9f83",
-    "Host": "app.mixcapp.com",
-    "Origin": "https://app.mixcapp.com",
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 crland/4.4.0 grayscale/0 /MIXCAPP/3.50.0 AnalysysAgent/Hybrid",
-    "Referer": "https://app.mixcapp.com/m/m-20028/signIn?appVersion=3.50.0&mallNo=20028&timestamp=1698215888838&showWebNavigation=true&hideNativeNavigation=true"
-  },
   "mallNo": "2701A401",
   "tokens": [
     "ec1d02bac5734d82b44e94b1da9775a7,陈杰",
