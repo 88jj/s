@@ -176,9 +176,9 @@
       "version": 1,
       "status": false,
       "plat": "ProxIps",
-      "cron": "0,25 0 0,10 * * ?",
-      "data": "100",
-      "description": "代理IP获取"
+      "cron": "0,28,57 0,1 0,10 * * ?",
+      "data": "10",
+      "description": "代理IP"
     }
   ]
 }
