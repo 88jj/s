@@ -169,6 +169,16 @@
       "cron": "53 0/3 7-22 * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
+    },
+    {
+      "owner": "2",
+      "name": "ProxIps",
+      "version": 1,
+      "status": false,
+      "plat": "ProxIps",
+      "cron": "0,25 0 0,10 * * ?",
+      "data": "100",
+      "description": "代理IP获取"
     }
   ]
 }
