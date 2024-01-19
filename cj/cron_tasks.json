@@ -143,7 +143,7 @@
     {
       "owner": "cz",
       "name": "fuck-xpm",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "xpm",
       "cron": "0-5 0 10 * * ?",
