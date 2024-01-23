@@ -179,6 +179,16 @@
       "cron": "0,28,57 0,1 0,10 * * ?",
       "data": "10",
       "description": "代理IP"
+    },
+    {
+      "owner": "cz",
+      "name": "LT泡泡机",
+      "version": 1,
+      "status": true,
+      "plat": "ltpp",
+      "cron": "15 0 0 * * ?",
+      "data": "https://88jj.github.io/s/zglt/ltpp.json",
+      "description": "泡泡机"
     }
   ]
 }
