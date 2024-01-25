@@ -194,7 +194,7 @@
       "owner": "cz",
       "name": "esh88",
       "version": 1,
-      "status": false,
+      "status": true,
       "plat": "esh88",
       "cron": "0 30 9 ? * MON",
       "data": "https://88jj.github.io/s/esh/1.json",
