@@ -196,7 +196,7 @@
       "version": 1,
       "status": false,
       "plat": "esh88",
-      "cron": "0 30 9 * * ?",
+      "cron": "0 30 9 ? * MON",
       "data": "https://88jj.github.io/s/esh/1.json",
       "description": "esh88"
     }
