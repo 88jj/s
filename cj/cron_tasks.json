@@ -143,10 +143,10 @@
     {
       "owner": "cz",
       "name": "fuck-xpm",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "xpm",
-      "cron": "0-5 0 10 * * ?",
+      "cron": "59 59 9 * * ?",
       "data": "https://88jj.github.io/s/xpm/1.json",
       "description": ""
     },
@@ -186,7 +186,7 @@
       "version": 1,
       "status": true,
       "plat": "ltpp",
-      "cron": "15 0 0 * * ?",
+      "cron": "15 30 0 * * ?",
       "data": "https://88jj.github.io/s/zglt/ltpp.json",
       "description": "泡泡机"
     }
