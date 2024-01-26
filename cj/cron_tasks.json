@@ -183,10 +183,10 @@
     {
       "owner": "cz",
       "name": "LT泡泡机",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ltpp",
-      "cron": "15 30 0 * * ?",
+      "cron": "15 3 0 * * ?",
       "data": "https://88jj.github.io/s/zglt/ltpp.json",
       "description": "泡泡机"
     },
