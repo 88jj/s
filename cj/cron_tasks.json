@@ -132,16 +132,6 @@
     },
     {
       "owner": "cz",
-      "name": "fuck-建行E",
-      "version": 1,
-      "status": false,
-      "plat": "fuck",
-      "cron": "0/1 * * * * ?",
-      "data": "https://88jj.github.io/s/fuck/1.txt",
-      "description": ""
-    },
-    {
-      "owner": "cz",
       "name": "fuck-xpm",
       "version": 1,
       "status": false,
