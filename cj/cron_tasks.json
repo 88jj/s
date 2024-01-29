@@ -122,16 +122,6 @@
     },
     {
       "owner": "cz",
-      "name": "HRT-10EK",
-      "version": 1,
-      "status": false,
-      "plat": "hrt_ek",
-      "cron": "38 0/30 * * * ?",
-      "data": "",
-      "description": ""
-    },
-    {
-      "owner": "cz",
       "name": "fuck-xpm",
       "version": 1,
       "status": false,
