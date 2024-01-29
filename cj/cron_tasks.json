@@ -183,7 +183,7 @@
     {
       "owner": "cz",
       "name": "esh88",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "esh88",
       "cron": "0 30 9 ? * MON",
