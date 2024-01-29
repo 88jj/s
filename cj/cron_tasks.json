@@ -26,7 +26,7 @@
       "version": 1,
       "status": false,
       "plat": "ydwxV1",
-      "cron": "0 0 0 * * ?",
+      "cron": "15 0 0 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
