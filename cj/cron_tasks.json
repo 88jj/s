@@ -61,7 +61,7 @@
       "description": ""
     },
     {
-      "owner": "2,3,cz",
+      "owner": "2,dev,cz",
       "name": "YDWX抽奖-刷新缓存",
       "version": 1,
       "status": true,
