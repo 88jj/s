@@ -36,7 +36,7 @@
       "version": 1,
       "status": true,
       "plat": "ydwxV1",
-      "cron": "4 1 10 * * ?",
+      "cron": "33 3 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
       "description": ""
     },
@@ -44,9 +44,9 @@
       "owner": "cz",
       "name": "YDWX抽奖_other",
       "version": 1,
-      "status": false,
+      "status": true,
       "plat": "ydwxV2",
-      "cron": "0 3 0,10 * * ?",
+      "cron": "30 13 0 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_other.json",
       "description": ""
     },
@@ -54,9 +54,9 @@
       "owner": "cz",
       "name": "YDWX抽奖_other-10点",
       "version": 1,
-      "status": false,
+      "status": true,
       "plat": "ydwxV2",
-      "cron": "17 4 10 * * ?",
+      "cron": "17 14 10 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_other10d.json",
       "description": ""
     },
