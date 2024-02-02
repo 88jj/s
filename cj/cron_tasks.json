@@ -33,10 +33,10 @@
     {
       "owner": "cz",
       "name": "YDWX抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx",
-      "cron": "25 0/3 0-12 * * ? ",
+      "cron": "25 0/10 0-12 * * ? ",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
