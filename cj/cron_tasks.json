@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "owner": "dev",
+      "owner": "cz",
       "name": "HRT-签到",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "hrt",
       "cron": "18 0 8 * * ?",
@@ -11,9 +11,9 @@
       "description": ""
     },
     {
-      "owner": "dev",
+      "owner": "cz",
       "name": "YDWX签到",
-      "version": 3,
+      "version": 1,
       "status": true,
       "plat": "ydwx_qd",
       "cron": "35 0 7 * * ?",
@@ -21,43 +21,23 @@
       "description": ""
     },
     {
-      "owner": "dev",
-      "name": "YDWX抽奖",
-      "version": 3,
+      "owner": "cz",
+      "name": "YDWX初始化",
+      "version": 1,
       "status": true,
-      "plat": "ydwxV1",
-      "cron": "15 0 0 * * ?",
+      "plat": "ydwx_lottery_record",
+      "cron": "0 0 0 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
     {
-      "owner": "dev",
-      "name": "YDWX抽奖-10点",
-      "version": 3,
-      "status": true,
-      "plat": "ydwxV1",
-      "cron": "33 3 10 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx10d.json",
-      "description": ""
-    },
-    {
       "owner": "cz",
-      "name": "YDWX抽奖_other",
+      "name": "YDWX抽奖",
       "version": 1,
       "status": true,
-      "plat": "ydwxV2",
-      "cron": "30 13 0 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx_other.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX抽奖_other-10点",
-      "version": 1,
-      "status": true,
-      "plat": "ydwxV2",
-      "cron": "17 14 10 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx_other10d.json",
+      "plat": "ydwx",
+      "cron": "25 0/3 0-12 * * ? ",
+      "data": "https://88jj.github.io/s/hrt/ydwx.json",
       "description": ""
     },
     {
@@ -81,7 +61,7 @@
       "description": ""
     },
     {
-      "owner": "dev",
+      "owner": "cz",
       "name": "YDWX抽奖-清理",
       "version": 1,
       "status": true,
@@ -91,7 +71,7 @@
       "description": ""
     },
     {
-      "owner": "dev",
+      "owner": "cz",
       "name": "HRT积分",
       "version": 1,
       "status": true,
@@ -166,7 +146,7 @@
       "version": 2,
       "status": true,
       "plat": "ltpp",
-      "cron": "15 3 0 * * ?",
+      "cron": "55 30 1 * * ?",
       "data": "https://88jj.github.io/s/zglt/ltpp.json",
       "description": "泡泡机"
     },
