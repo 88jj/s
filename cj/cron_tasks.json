@@ -1,7 +1,7 @@
 {
   "tasks": [
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "HRT-签到",
       "version": 1,
       "status": true,
@@ -11,7 +11,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "YDWX签到",
       "version": 1,
       "status": true,
@@ -21,7 +21,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "YDWX抽奖",
       "version": 1,
       "status": true,
@@ -31,7 +31,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "YDWX抽奖-10点",
       "version": 1,
       "status": true,
@@ -81,7 +81,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "YDWX抽奖-清理",
       "version": 1,
       "status": true,
@@ -91,7 +91,7 @@
       "description": ""
     },
     {
-      "owner": "2",
+      "owner": "dev",
       "name": "HRT积分",
       "version": 1,
       "status": true,
@@ -178,7 +178,7 @@
       "plat": "esh88",
       "cron": "0 30 9 ? * MON",
       "data": "https://88jj.github.io/s/esh/1.json",
-      "description": "esh88"
+      "description": "esh88 每周一9:30"
     }
   ]
 }
