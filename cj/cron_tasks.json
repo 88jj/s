@@ -3,20 +3,20 @@
     {
       "owner": "dev",
       "name": "HRT-签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrt",
-      "cron": "18 44 8 * * ?",
+      "cron": "18 0 8,15 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
     {
       "owner": "dev",
       "name": "YDWX签到",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwx_qd",
-      "cron": "35 0 7 * * ?",
+      "cron": "35 0 7,15 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_qd.json",
       "description": ""
     },
