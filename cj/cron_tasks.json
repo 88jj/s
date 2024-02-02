@@ -23,7 +23,7 @@
     {
       "owner": "dev",
       "name": "YDWX抽奖",
-      "version": 1,
+      "version": 3,
       "status": true,
       "plat": "ydwxV1",
       "cron": "15 0 0 * * ?",
@@ -33,7 +33,7 @@
     {
       "owner": "dev",
       "name": "YDWX抽奖-10点",
-      "version": 1,
+      "version": 3,
       "status": true,
       "plat": "ydwxV1",
       "cron": "33 3 10 * * ?",
