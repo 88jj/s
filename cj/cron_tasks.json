@@ -34,7 +34,7 @@
       "owner": "cz",
       "name": "YDWX抽奖",
       "version": 3,
-      "status": true,
+      "status": false,
       "plat": "ydwx",
       "cron": "25 0/10 0-12 * * ? ",
       "data": "https://88jj.github.io/s/hrt/ydwx.json",
