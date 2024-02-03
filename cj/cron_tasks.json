@@ -33,7 +33,7 @@
     {
       "owner": "cz",
       "name": "YDWX抽奖",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "ydwx",
       "cron": "25 0/10 0-12 * * ? ",
