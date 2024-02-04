@@ -13,8 +13,8 @@
     {
       "owner": "cz",
       "name": "YDWX签到",
-      "version": 1,
-      "status": true,
+      "version": 2,
+      "status": false,
       "plat": "ydwx_qd",
       "cron": "35 0 7 * * ?",
       "data": "https://88jj.github.io/s/hrt/ydwx_qd.json",
