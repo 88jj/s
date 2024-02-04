@@ -156,7 +156,7 @@
       "version": 2,
       "status": true,
       "plat": "esh88",
-      "cron": "0 30 9 ? * MON",
+      "cron": "59 29 9 ? * MON",
       "data": "https://88jj.github.io/s/esh/1.json",
       "description": "esh88 每周一9:30"
     }
