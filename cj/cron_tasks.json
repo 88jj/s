@@ -153,7 +153,7 @@
     {
       "owner": "dev",
       "name": "esh88",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "esh88",
       "cron": "59 29 9 ? * MON",
