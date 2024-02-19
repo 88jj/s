@@ -151,9 +151,9 @@
       "description": "泡泡机"
     },
     {
-      "owner": "cz",
+      "owner": "dev",
       "name": "esh88",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "esh88",
       "cron": "59 29 9 ? * MON",

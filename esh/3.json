@@ -1,27 +1,6 @@
 {
+  "mark": "达标",
   "products": [
-    {
-      "name": "星巴克",
-      "activityId": "A934148889597181952",
-      "awardId": "W1155090576895770636",
-    },
-    {
-      "name": "霸王茶姬",
-      "activityId": "A934153415595130880",
-      "awardId": "W1155095620714102805",
-    },
-    {
-      "name": "百果园",
-      "activityId": "A1190353336738775040",
-      "awardId": "W1190353917641621507",
-    },
-    {
-      "name": "京东",
-      "activityId": "A1190952896360087552",
-      "awardId": "W1190953263701557249",
-    }
-  ],
-  "products2": [
     {
       "name": "星巴克",
       "activityId": "A934148889597181952",
@@ -61,7 +40,7 @@
   "startTime": 95959900,
   "users": [
     {
-      "auth": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJKVXVUN1dpbTFkM2s5YU1FRTZqMHRnPT0iLCJhY3Rpdml0eU5vIjoiIiwiYWNjb3VudCI6IkpVdVQ3V2ltMWQzazlhTUVFNmowdGc9PSIsInVzZXJJZCI6IjEwNDAzNDc0NCIsIm1lcmNoYW50SWQiOiIwMDAwMDAwMTkxIiwiY3VzdG9tZXJJbmZvIjoie1wiZGV2aWNlX2lkXCI6XCJFOEE1OTBFOS1GRTdBLTRFMkQtOEMyMC1GMjczRTgyNzg1QjlcIixcImxvZ2luVHlwZVwiOlwiaW50ZXJhY3RpdmVJR29DaG9vc2VcIixcImNpdHlfY29kZVwiOlwiNDIwMTAwXCIsXCJjaXNub1wiOlwiSlV1VDdXaW0xZDNrOWFNRUU2ajB0Zz09XCIsXCJpc05ld1VzZXJcIjpcIjFcIixcIm1hcmtldElkXCI6XCJNOTIzMTU2Mjg5MDE2NjkyNzM2XCIsXCJjaXR5X25hbWVcIjpcIuatpuaxieW4glwiLFwicGhvbmVcIjpcIjE3NjAwMjk3MTYyXCIsXCJmcm9tRW50cnlcIjpcIkFQUFwiLFwiY3VycmVudFRpbWVNaWxsaXNcIjpcIjE3MDgzMDQ0MzY2NTNcIixcInVzZXJVdWlkXCI6XCJnYis4dmRXaXVZcVZSZ3drQ1Y3UEJxUnNTYi8wc09IalwiLFwiY3VzdF9pZFwiOlwiZ2IrOHZkV2l1WXFWUmd3a0NWN1BCcVJzU2IvMHNPSGpcIixcImludml0YXRpb25Db2RlXCI6XCJFRTlVR0NcIn0iLCJjaXNubyI6IkpVdVQ3V2ltMWQzazlhTUVFNmowdGc9PSIsInVuaW9uTWFya2V0SWQiOiJNOTIzMTU2Mjg5MDE2NjkyNzM2IiwiaWF0IjoxNzA4MzA0NDM4LCJleHAiOjE3MDgzOTA4Mzh9.HpFOva2Zwvo8gTVkTuIeaPU65DwUGRoUKayFDj13Wqw",
+      "auth": "",
       "phone": "17600297162"
     }
   ]
