@@ -153,12 +153,22 @@
     {
       "owner": "dev",
       "name": "esh88",
-      "version": 4,
-      "status": true,
+      "version": 5,
+      "status": false,
       "plat": "esh88",
       "cron": "59 29 9 ? * MON",
       "data": "https://88jj.github.io/s/esh/1.json",
       "description": "esh88 每周一9:30"
+    },
+    {
+      "owner": "cz",
+      "name": "悦秀会签到",
+      "version": 4,
+      "status": true,
+      "plat": "yuexiu_sign",
+      "cron": "35 20 8 * * ?",
+      "data": "https://88jj.github.io/s/yuexiu/user.json",
+      "description": ""
     }
   ]
 }
