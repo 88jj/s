@@ -63,8 +63,8 @@
     {
       "owner": "cz",
       "name": "YDWX抽奖-清理",
-      "version": 1,
-      "status": true,
+      "version": 2,
+      "status": false,
       "plat": "ydwx_clear",
       "cron": "57 21 16 1/2 * ?",
       "data": "",
@@ -73,10 +73,10 @@
     {
       "owner": "cz",
       "name": "HRT积分",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrt_point",
-      "cron": "35 31 7,10 * * ?",
+      "cron": "35 31 19 * * ?",
       "data": "https://88jj.github.io/s/hrt/hrt.json",
       "description": ""
     },
@@ -163,7 +163,7 @@
     {
       "owner": "cz",
       "name": "悦秀会签到",
-      "version": 4,
+      "version": 5,
       "status": true,
       "plat": "yuexiu_sign",
       "cron": "35 20 8 * * ?",
