@@ -1,0 +1,8 @@
+{
+  "users": [
+    {
+      "name": "lafee",
+      "authorization": "Bearer_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzaWduRGF0YSI6IkM0OTlBMzUyMENBNTJGREIyQzg4RTVEODM1NDBDMTJEMzcyMDE5IiwibG9naW5UaW1lIjoiMTcxMDQzMTQ4ODA1MiIsIm5iZiI6MTcxMDQzMTQ4OCwiZXhwdCI6MTcxMDUxNzg4ODA1MiwiaXNzIjoiSldUIiwiZnJvbSI6IkFQUCIsImV4cCI6MTcxMTY0MTA4OCwidXNlcklkIjoiNzU0MzA1NiIsImlhdCI6MTcxMDQzMTQ4OH0.fVAxELUkl6EFJjKPl82mSbpZJhmSM5nQgEUp1vbIYKc"
+    }
+  ]
+}

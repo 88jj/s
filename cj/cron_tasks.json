@@ -169,6 +169,16 @@
       "cron": "35 20 8 * * ?",
       "data": "https://88jj.github.io/s/yuexiu/user.json",
       "description": ""
+    },
+    {
+      "owner": "cz",
+      "name": "招商信诺签到",
+      "version": 1,
+      "status": true,
+      "plat": "zsxn_sign",
+      "cron": "35 20 6 * * ?",
+      "data": "https://88jj.github.io/s/zsxn/user.json",
+      "description": ""
     }
   ]
 }
