@@ -179,6 +179,16 @@
       "cron": "35 20 6 * * ?",
       "data": "https://88jj.github.io/s/zsxn/user.json",
       "description": ""
+    },
+    {
+      "owner": "cz",
+      "name": "携程签到",
+      "version": 1,
+      "status": true,
+      "plat": "xiecheng_sign",
+      "cron": "5 10 6 * * ?",
+      "data": "https://88jj.github.io/s/xiecheng/user.json",
+      "description": ""
     }
   ]
 }
