@@ -1,13 +1,13 @@
 ﻿# quanx 关键函数
-* ##$prefs：
+* $prefs：
 持久化数据存储（读取和写入）。  
-* ##$task：
+* $task：
 网络请求。  
-* ##$done：
+* $done：
 请求完毕时需要调用。  
-* ##$request：
+* $request：
 重写网络请求，用来获取请求中的Cookie等，甚至可以用来篡改响应体。  
-* ##$notify：
+* $notify：
 弹框提示信息。  
 `$notify(title, subtitle, message, Opts(rawopts));  `
 
@@ -16,4 +16,6 @@
 `$done({})`
 
 # 仓库访问地址
-https://88jj.github.io/s/cj/yuexiuhui.json
+https://raw.githubusercontent.com/88jj/s/main/api.md
+https://88jj.github.io/s/cj/cron_tasks.json
+https://raw.githubusercontent.com/88jj/s/main/cj/cron_tasks.json
