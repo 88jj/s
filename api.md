@@ -19,3 +19,4 @@
 https://raw.githubusercontent.com/88jj/s/main/api.md
 https://88jj.github.io/s/cj/cron_tasks.json
 https://raw.githubusercontent.com/88jj/s/main/cj/cron_tasks.json
+https://raw.githubusercontent.com/88jj/s/main/zz/1.html
