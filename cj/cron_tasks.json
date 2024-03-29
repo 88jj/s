@@ -188,7 +188,8 @@
       "plat": "yshzb",
       "cron": "3 0/4 18-21 30 * ?",
       "data": "https://raw.gitmirror.com/88jj/s/main/yshzb/user.json",
-      "description": ""
+      "description": "",
+      "refresh": true
     }
   ]
 }
