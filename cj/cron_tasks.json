@@ -183,10 +183,10 @@
     {
       "owner": "cz",
       "name": "邮生活直播",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "yshzb",
-      "cron": "0 0/5 * * * ?",
+      "cron": "3 0/4 * * * ?",
       "data": "https://88jj.github.io/s/yshzb/user.json",
       "description": ""
     }
