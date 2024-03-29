@@ -182,12 +182,12 @@
     },
     {
       "owner": "cz",
-      "name": "携程签到",
+      "name": "邮生活直播",
       "version": 1,
       "status": true,
-      "plat": "xiecheng_sign",
-      "cron": "5 10 6 * * ?",
-      "data": "https://88jj.github.io/s/xiecheng/user.json",
+      "plat": "yshzb",
+      "cron": "0 0/2 * * * ?",
+      "data": "https://88jj.github.io/s/yshzb/user.json",
       "description": ""
     }
   ]
