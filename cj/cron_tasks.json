@@ -183,7 +183,7 @@
     {
       "owner": "cz",
       "name": "邮生活直播",
-      "version": 12,
+      "version": 13,
       "status": true,
       "plat": "yshzb",
       "cron": "3 0/4 18-24 29 * ?",
