@@ -186,7 +186,7 @@
       "version": 17,
       "status": true,
       "plat": "yshzb",
-      "cron": "3 0/3 18-21 29 * ?",
+      "cron": "3 0/3 18-21 30 * ?",
       "data": "https://raw.gitmirror.com/88jj/s/main/yshzb/user.json",
       "description": "",
       "refresh": true
