@@ -183,10 +183,10 @@
     {
       "owner": "cz",
       "name": "邮生活直播",
-      "version": 20,
+      "version": 21,
       "status": true,
       "plat": "yshzb",
-      "cron": "3 0/3 17-21 31 * ?",
+      "cron": "3 0/3 19-22 31 * ?",
       "data": "https://raw.gitmirror.com/88jj/s/main/yshzb/user.json",
       "description": "",
       "refresh": true
