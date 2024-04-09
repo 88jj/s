@@ -117,7 +117,7 @@
       "status": true,
       "plat": "yqhd8",
       "cron": "30 0/3 7-22 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/xianbao/yqhd8.json",
+      "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
       "description": ""
     },
     {
@@ -127,7 +127,7 @@
       "status": false,
       "plat": "qfxbw",
       "cron": "53 0/3 7-22 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/xianbao/qfxbw.json",
+      "data": "https://88jj.github.io/s/xianbao/qfxbw.json",
       "description": ""
     },
     {
@@ -147,7 +147,7 @@
       "status": true,
       "plat": "ltpp",
       "cron": "55 30 1 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/zglt/ltpp.json",
+      "data": "https://88jj.github.io/s/zglt/ltpp.json",
       "description": "泡泡机"
     },
     {
@@ -157,7 +157,7 @@
       "status": false,
       "plat": "esh88",
       "cron": "59 29 9 ? * MON",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/esh/1.json",
+      "data": "https://88jj.github.io/s/esh/1.json",
       "description": "esh88 每周一9:30"
     },
     {
@@ -167,7 +167,7 @@
       "status": true,
       "plat": "yuexiu_sign",
       "cron": "35 20 8 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/yuexiu/user.json",
+      "data": "https://88jj.github.io/s/yuexiu/user.json",
       "description": ""
     },
     {
@@ -177,7 +177,7 @@
       "status": true,
       "plat": "zsxn_sign",
       "cron": "35 20 6 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/zsxn/user.json",
+      "data": "https://88jj.github.io/s/zsxn/user.json",
       "description": ""
     },
     {
@@ -187,7 +187,7 @@
       "status": true,
       "plat": "yshzb",
       "cron": "3 0/3 15-18 9 * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/yshzb/user.json",
+      "data": "https://88jj.github.io/s/yshzb/user.json",
       "description": "",
       "refresh": true
     }
