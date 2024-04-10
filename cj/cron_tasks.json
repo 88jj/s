@@ -194,7 +194,7 @@
     {
       "owner": "cz",
       "name": "海澜之家",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hlzj",
       "cron": "2 52 7,14,16,18 * * ?",
