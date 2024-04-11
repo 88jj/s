@@ -194,10 +194,10 @@
     {
       "owner": "cz",
       "name": "海澜之家",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "hlzj",
-      "cron": "12 13 7,14,18 * * ?",
+      "cron": "12 1 7,14,18 * * ?",
       "data": "https://88jj.github.io/s/hlzj/user.json",
       "description": "每天7-12点/14-17点/18-22点",
       "refresh": true
