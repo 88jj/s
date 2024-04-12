@@ -204,6 +204,17 @@
     },
     {
       "owner": "cz",
+      "name": "海澜之家-辉",
+      "version": 4,
+      "status": true,
+      "plat": "hlzj",
+      "cron": "12 22 7,14,18 * * ?",
+      "data": "https://88jj.github.io/s/hlzj/user_h.json",
+      "description": "每天7-12点/14-17点/18-22点",
+      "refresh": true
+    },
+    {
+      "owner": "cz",
       "name": "武汉恒隆",
       "version": 4,
       "status": true,
