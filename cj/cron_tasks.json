@@ -2,116 +2,6 @@
   "tasks": [
     {
       "owner": "cz",
-      "name": "HRT-签到",
-      "version": 1,
-      "status": false,
-      "plat": "hrt",
-      "cron": "18 0 8 * * ?",
-      "data": "https://raw.githubusercontent.com/88jj/s/main/hrt/hrt.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX签到",
-      "version": 2,
-      "status": false,
-      "plat": "ydwx_qd",
-      "cron": "35 0 7 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx_qd.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX初始化",
-      "version": 1,
-      "status": false,
-      "plat": "ydwx_lottery_record",
-      "cron": "0 0 0 * * ?",
-      "data": "https://88jj.github.io/s/hrt/ydwx.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX抽奖",
-      "version": 3,
-      "status": false,
-      "plat": "ydwx",
-      "cron": "25 0/10 0-12 * * ? ",
-      "data": "https://88jj.github.io/s/hrt/ydwx.json",
-      "description": ""
-    },
-    {
-      "owner": "2,dev,cz",
-      "name": "YDWX抽奖-刷新缓存",
-      "version": 1,
-      "status": true,
-      "plat": "ydwx_cache",
-      "cron": "57 50 9,23 * * ?",
-      "data": "",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX抽奖-更新官网活动",
-      "version": 1,
-      "status": false,
-      "plat": "ydwx_update",
-      "cron": "7 36 22 * * ?",
-      "data": "",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "YDWX抽奖-清理",
-      "version": 2,
-      "status": false,
-      "plat": "ydwx_clear",
-      "cron": "57 21 16 1/2 * ?",
-      "data": "",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "HRT积分",
-      "version": 2,
-      "status": false,
-      "plat": "hrt_point",
-      "cron": "35 31 19 * * ?",
-      "data": "https://88jj.github.io/s/hrt/hrt.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "ole-签到",
-      "version": 1,
-      "status": false,
-      "plat": "crvole",
-      "cron": "10 34 8 * * ?",
-      "data": "https://88jj.github.io/s/hrt/crvole.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "ole-保活",
-      "version": 1,
-      "status": false,
-      "plat": "crvole_bh",
-      "cron": "30 0/30 * * * ?",
-      "data": "https://88jj.github.io/s/hrt/crvole_bh.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "fuck-xpm",
-      "version": 1,
-      "status": false,
-      "plat": "xpm",
-      "cron": "0 0 10 * * ?",
-      "data": "https://88jj.github.io/s/xpm/1.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
       "name": "yqhd8爬虫",
       "version": 1,
       "status": true,
@@ -122,26 +12,6 @@
     },
     {
       "owner": "cz",
-      "name": "qfxbw爬虫",
-      "version": 1,
-      "status": false,
-      "plat": "qfxbw",
-      "cron": "53 0/3 7-22 * * ?",
-      "data": "https://88jj.github.io/s/xianbao/qfxbw.json",
-      "description": ""
-    },
-    {
-      "owner": "2",
-      "name": "ProxIps",
-      "version": 1,
-      "status": false,
-      "plat": "ProxIps",
-      "cron": "0,28,57 0,1 0,10 * * ?",
-      "data": "10",
-      "description": "代理IP"
-    },
-    {
-      "owner": "cz",
       "name": "LT泡泡机",
       "version": 2,
       "status": true,
@@ -149,16 +19,6 @@
       "cron": "55 30 1 * * ?",
       "data": "https://88jj.github.io/s/zglt/ltpp.json",
       "description": "泡泡机"
-    },
-    {
-      "owner": "dev",
-      "name": "esh88",
-      "version": 5,
-      "status": false,
-      "plat": "esh88",
-      "cron": "59 29 9 ? * MON",
-      "data": "https://88jj.github.io/s/esh/1.json",
-      "description": "esh88 每周一9:30"
     },
     {
       "owner": "cz",
