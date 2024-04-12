@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "lafee",
-      "authorization": "2a08a714-a83f-42b2-a2c0-8d3e01e7ba50"
-    },
-    {
       "name": "汐汐",
       "authorization": "fc5992e9-723b-4d90-9c3b-95992b8db935"
     },
@@ -15,6 +11,18 @@
     {
       "name": "风风",
       "authorization": "d2676f71-cded-4c77-9a16-00da81515c9f"
+    },
+    {
+      "name": "pei",
+      "authorization": "09da321b-9c90-40b8-aaf9-5f8d5f7f5329"
+    },
+    {
+      "name": "玥玥",
+      "authorization": "5d1cf9c1-faba-4fc9-b0af-aabe08df152b"
+    },
+    {
+      "name": "lafee",
+      "authorization": "2a08a714-a83f-42b2-a2c0-8d3e01e7ba50"
     }
   ]
 }
