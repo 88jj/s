@@ -201,6 +201,17 @@
       "data": "https://88jj.github.io/s/hlzj/user.json",
       "description": "每天7-12点/14-17点/18-22点",
       "refresh": true
+    },
+    {
+      "owner": "cz",
+      "name": "武汉恒隆",
+      "version": 4,
+      "status": true,
+      "plat": "whhl",
+      "cron": "5 0 0 * * ?",
+      "data": "https://88jj.github.io/s/whhl/user.json",
+      "description": "",
+      "refresh": true
     }
   ]
 }
