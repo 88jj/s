@@ -43,10 +43,10 @@
     {
       "owner": "cz",
       "name": "邮生活直播",
-      "version": 26,
+      "version": 27,
       "status": true,
       "plat": "yshzb",
-      "cron": "3 0/3 14-16 16 * ?",
+      "cron": "3 0/3 14-17 16 * ?",
       "data": "https://88jj.github.io/s/yshzb/user.json",
       "description": "",
       "refresh": true
