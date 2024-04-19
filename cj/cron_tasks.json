@@ -43,7 +43,7 @@
     {
       "owner": "cz",
       "name": "邮生活直播",
-      "version": 29,
+      "version": 30,
       "status": true,
       "plat": "yshzb",
       "cron": "3 0/3 14-18 19 * ?",
