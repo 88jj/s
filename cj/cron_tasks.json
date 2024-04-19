@@ -46,7 +46,7 @@
       "version": 29,
       "status": true,
       "plat": "yshzb",
-      "cron": "3 0/3 15-20 18 * ?",
+      "cron": "3 0/3 14-18 19 * ?",
       "data": "https://88jj.github.io/s/yshzb/user.json",
       "description": "",
       "refresh": true
