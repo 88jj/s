@@ -76,8 +76,8 @@
     {
       "owner": "cz",
       "name": "武汉恒隆",
-      "version": 4,
-      "status": true,
+      "version": 5,
+      "status": false,
       "plat": "whhl",
       "cron": "5 0 0 * * ?",
       "data": "https://88jj.github.io/s/whhl/user.json",
