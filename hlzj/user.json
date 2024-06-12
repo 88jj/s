@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "lafee",
-      "unionId": "oHds-57q-HGWLgzzKgaUj8UhdNtM"
-    },
-    {
       "name": "汐汐",
       "unionId": "oHds-5-Krl-bZUzgen97Sqr5GvgQ"
     },
@@ -23,6 +19,10 @@
     {
       "name": "yueyue",
       "unionId": "oHds-506or4eG0hGS5wockWLeVcY"
+    },
+    {
+      "name": "lafee",
+      "unionId": "oHds-57q-HGWLgzzKgaUj8UhdNtM"
     }
   ]
 }

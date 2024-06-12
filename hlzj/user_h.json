@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "name": "紫文",
+      "unionId": "oHds-5wT2cK96snzREt9OvhYh9aU"
+    },
+    {
       "name": "辉哥",
       "unionId": "oHds-53YMXoIzldSgEtIIgvwNZqo"
     },
@@ -19,10 +23,7 @@
     {
       "name": "萱萱",
       "unionId": "oHds-5ySUd91c1-j7VLAkkZXxAQo"
-    },
-    {
-      "name": "紫文",
-      "unionId": "oHds-5wT2cK96snzREt9OvhYh9aU"
     }
+
   ]
 }
