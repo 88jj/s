@@ -23,8 +23,8 @@
     {
       "owner": "cz",
       "name": "悦秀会签到",
-      "version": 5,
-      "status": true,
+      "version": 6,
+      "status": false,
       "plat": "yuexiu_sign",
       "cron": "35 20 8 * * ?",
       "data": "https://88jj.github.io/s/yuexiu/user.json",
