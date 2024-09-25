@@ -13,7 +13,7 @@
     {
       "owner": "cz",
       "name": "LT泡泡机",
-      "version": 2,
+      "version": 3,
       "status": false,
       "plat": "ltpp",
       "cron": "55 30 1 * * ?",
@@ -33,7 +33,7 @@
     {
       "owner": "cz",
       "name": "招商信诺签到",
-      "version": 1,
+      "version": 3,
       "status": false,
       "plat": "zsxn_sign",
       "cron": "35 20 6 * * ?",
