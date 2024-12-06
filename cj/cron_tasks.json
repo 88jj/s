@@ -1,7 +1,7 @@
 {
   "tasks": [
     {
-      "owner": "cz",
+      "owner": "jie",
       "name": "yqhd8爬虫",
       "version": 1,
       "status": true,
@@ -52,7 +52,7 @@
       "refresh": true
     },
     {
-      "owner": "cz",
+      "owner": "jie",
       "name": "海澜之家",
       "version": 4,
       "status": true,
@@ -63,7 +63,7 @@
       "refresh": true
     },
     {
-      "owner": "cz",
+      "owner": "jie",
       "name": "海澜之家-辉",
       "version": 4,
       "status": true,
