@@ -3,5 +3,6 @@
   "level": "passive",
   "pushUrls": [
     "https://api.day.app/qtTPamRVh7KgD3HyC2y3re"
-  ]
+  ],
+  "blackRe": "[0-9.]+[g/G/克/ml/l/L/ML/斤/袋]"
 }

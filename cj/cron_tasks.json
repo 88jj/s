@@ -12,16 +12,6 @@
     },
     {
       "owner": "cz",
-      "name": "LT泡泡机",
-      "version": 3,
-      "status": false,
-      "plat": "ltpp",
-      "cron": "55 30 1 * * ?",
-      "data": "https://88jj.github.io/s/zglt/ltpp.json",
-      "description": "泡泡机"
-    },
-    {
-      "owner": "cz",
       "name": "悦秀会签到",
       "version": 6,
       "status": false,
@@ -29,27 +19,6 @@
       "cron": "35 20 8 * * ?",
       "data": "https://88jj.github.io/s/yuexiu/user.json",
       "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "招商信诺签到",
-      "version": 3,
-      "status": false,
-      "plat": "zsxn_sign",
-      "cron": "35 20 6 * * ?",
-      "data": "https://88jj.github.io/s/zsxn/user.json",
-      "description": ""
-    },
-    {
-      "owner": "cz",
-      "name": "邮生活直播",
-      "version": 32,
-      "status": false,
-      "plat": "yshzb",
-      "cron": "3 0/3 14-17 23 * ?",
-      "data": "https://88jj.github.io/s/yshzb/user.json",
-      "description": "",
-      "refresh": true
     },
     {
       "owner": "jie",
