@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "owner": "jie",
+      "owner": "dev",
       "name": "yqhd8爬虫",
-      "version": 5,
+      "version": 1,
       "status": true,
       "plat": "yqhd8",
       "cron": "30 0/3 7-22 * * ?",
@@ -21,9 +21,9 @@
       "description": ""
     },
     {
-      "owner": "jie",
+      "owner": "dev",
       "name": "海澜之家",
-      "version": 4,
+      "version": 1,
       "status": true,
       "plat": "hlzj",
       "cron": "12 1 7,14,18 * * ?",
@@ -32,9 +32,9 @@
       "refresh": true
     },
     {
-      "owner": "jie",
+      "owner": "dev",
       "name": "海澜之家-辉",
-      "version": 4,
+      "version": 1,
       "status": true,
       "plat": "hlzj",
       "cron": "12 22 7,14,18 * * ?",
