@@ -3,7 +3,7 @@
     {
       "owner": "dev",
       "name": "yqhd8爬虫",
-      "version": 1,
+      "version": 2,
       "status": false,
       "plat": "yqhd8",
       "cron": "30 0/3 7-22 * * ?",
