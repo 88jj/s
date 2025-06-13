@@ -4,7 +4,7 @@
       "owner": "dev",
       "name": "yqhd8爬虫",
       "version": 1,
-      "status": true,
+      "status": false,
       "plat": "yqhd8",
       "cron": "30 0/3 7-22 * * ?",
       "data": "https://88jj.github.io/s/xianbao/yqhd8.json",
